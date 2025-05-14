@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ወደ መነሻ ይዳስሱ</string>
+    <string name="abc_action_bar_home_description_format">%1$s፣ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s፣ %2$s፣ %3$s</string>
+    <string name="abc_action_bar_up_description">ወደ ላይ ይዳስሱ</string>
+    <string name="abc_action_menu_overflow_description">ተጨማሪ አማራጮች</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_activity_chooser_view_see_all">ሁሉንም ይመልከቱ</string>
+    <string name="abc_activitychooserview_choose_application">መተግበሪያ ይምረጡ</string>
+    <string name="abc_capital_off">ጠፍቷል</string>
+    <string name="abc_capital_on">በርቷል</string>
+    <string name="abc_search_hint">ፈልግ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_query">የፍለጋ ጥያቄ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ ያስረክቡ</string>
+    <string name="abc_searchview_description_voice">የድምፅ ፍለጋ</string>
+    <string name="abc_shareactionprovider_share_with">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="abc_shareactionprovider_share_with_application">ከ%s ጋር ያጋሩ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="search_menu_title">ፈልግ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="About">About</string>
+    <string name="Contact">Contact</string>
+    <string name="Definition">Definition</string>
+    <string name="Help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Wolitic Dictionary</string>
+    <string name="cloes">Close</string>
+    <string name="close">Close</string>
+    <string name="cop">© 2019 Wolaita Zone Chief Culture, Tourism and Government Affairs Department</string>
+    <string name="def">Definition</string>
+    <string name="definition">Definition</string>
+    <string name="hader">Wolaita-English</string>
+    <string name="hader2">Dictionary</string>
+    <string name="open">Open</string>
+    <string name="power">Designed and Developed by Laxsil 2019 v1.0</string>
+    <string name="search">Search</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="vers">Version 1.0</string>
+</resources>

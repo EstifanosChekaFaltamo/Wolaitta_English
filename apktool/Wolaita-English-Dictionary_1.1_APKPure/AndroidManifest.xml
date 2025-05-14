@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.laxsil.dagmawi.woliticdictionery" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <meta-data android:name="android.support.VERSION" android:value="25.3.1"/>
+    <application android:allowBackup="true" android:icon="@drawable/update" android:imeOptions="flagNoExtractUi" android:label="Wolaita-English Dictionary" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <activity android:name="com.example.dagmawi.woliticdictionery.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/definition" android:name="com.example.dagmawi.woliticdictionery.DefinitionActivity" android:parentActivityName="com.example.dagmawi.woliticdictionery.MainActivity" android:theme="@style/AppTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+        </activity>
+        <activity android:label="About" android:name="com.example.dagmawi.woliticdictionery.About_Activity" android:parentActivityName="com.example.dagmawi.woliticdictionery.MainActivity" android:theme="@style/AppTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+        </activity>
+        <activity android:label="@string/Contact" android:name="com.example.dagmawi.woliticdictionery.Contact_Activity" android:parentActivityName="com.example.dagmawi.woliticdictionery.MainActivity" android:theme="@style/AppTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+        </activity>
+        <activity android:label="@string/Help" android:name="com.example.dagmawi.woliticdictionery.Help" android:parentActivityName="com.example.dagmawi.woliticdictionery.MainActivity" android:theme="@style/AppTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+        </activity>
+        <activity android:name="com.example.dagmawi.woliticdictionery.IntroActivity" android:theme="@style/AppTheme.NoActionBar"/>
+        <meta-data android:name="android.support.VERSION" android:value="25.4.0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

@@ -1,0 +1,32 @@
+version: 2.11.1
+apkFileName: Wolaita-English-Dictionary_1.1_APKPure.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 17
+  targetSdkVersion: 28
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 2
+  versionName: 1.1
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- jpg
+- png
+- assets/for29.txt
+- assets/for30.txt
+- assets/for31.txt
+- assets/for32.txt
+- assets/for34.txt
+- assets/for35.txt
+- assets/for36.txt
+- assets/for37.txt
+- assets/only two.txt

@@ -1,0 +1,1185 @@
+Morpology
+Gomppaa Sinttaa
+KoyroShemppuwaa
+1. Geluwaa ………………………………………………………………………………………………………………… 1
+1.1. QaalaaQattaaxinaatexuuqqidohanotaa ……………………………………………………….….…1
+1.2. Qaalatu mereta Amerkkaa Doonaa pilggettaa xeelan/Morphology in American      
+         structural linguistics / ………………………………………………………………………………………… 2
+1.3. Qaalay aybee? ………………………………………………………………………………………..… 4
+1.3.1. Ano Qaalaa / Lexeme / ………………………………………………………………………………...…5
+         1.3.1.2. Qalaa Mereta / Word- form /……………………………………………………………………….… 7
+1.3.1.3. Seera qaala / the grammatical word /…………………………………………………..…..… 10
+1.4. Gunddulata: birshshettawu koyro qeeri hum''uwaa ………………………………14
+1.4.1. Qaalatu paretta / Analysing Words /…………………………………………………..................19
+1.4.2. Gunddulata, ……………………………………………………………………………………………..…… 19
+Naa’’antt Shemppuwaa
+ 2.1 Gunddula qommota ……………………………………………………………………………………………………… 39
+2.1.1 Kaniyaa somiyaa, anuwaanne techchaa …………………………………………………………………..…. 39
+2.1.1.1 Kaniyaa…………………………………………………………………………………………………………………….…39
+2.1.1.2 Somiyaa ………………………………………………………………………………….…………………….40
+2.1.1.3 Anuwaannetechchaa …………………………………………………………………………………….40
+2.2. MerogunddulatanneGujogunddulata (derivational and inflectional morpheme) …..…….. 41
+Heezzanttoshemppuwaa …………………………………………………………………………………………………. 51
+3.1. WolayttaGunddulaa ………………………………………………………………………………………………………  51
+3.1.1. Sunttaa ………………………………………………………………………………………………….. ……………….…  51
+3.1.2. Dummadummasometa …………………………… ………………………………………………………………..55
+3.1.3	Sunttaamacarata ………………………………………..………………………………………………… 66 
+3.2.  Mattumaa ………………………………………………………………………………………………………… 73
+3.3. Payduwaa ………………………………………………………………………………………………………….. 74
+3.4. -uwaagiyaasomiyaaekkidixaafettiyaasunttaticorattiyohanotaa…………………………… 77
+3.5. –iyogiyaasomiyaaekkiyaasunttaticorattiyoogiyaa……………………………………………….. 78
+3.6. Sunqquwaa ……………………………………………………………………………………………… 81
+3.6.1. Peeshuwaasohuwaangeliyaasunqqota ……………………………………………………………. 82
+3.6.2. Sunqqotaageeddarssiyoogaa …………………………………………………….……………….…… 84
+3.7.Arttikiliyaa ………………………………………………………………………………………………..….……….  87
+3.7.1. Sunttasuwaa ………………………………………………………………………………………….. 94
+3.7.2.. Keettaawaasunttasuwaa…………………………………………………………………….……………… 94
+3.7.3. Kaalliyaagaa( object Pronouns ) ………………………………………………………………………… 95
+XombbeMaxafaa……………………………………………………………………………………………..………   101
+
+
+
+
+
+Wolaytta Qaalaa Qottaa Xinaatiyaanne Kuushsha Qofaa
+Koyro Shemppuwaa
+Geluwaa
+Qaalaa Qottaa xinaatee xuuqqido hanotaa
+Doonaa tamaareti qaalati koshshiyabaa gidiyoogaa eriyaageeta gidiyaabaa gidikkonne, qaalatu qottaa xinaatee, sha'anne uddufuntta xeetu layttay gakkanaashin doonaa pilggettaa macara gididi xuqqibeenna. Inddo-Europpian giyo away wulliyoosaa bagga biittatu doonaa zaaretti giigissiyo woykko xaafiyo hanotan qaalatu qoffaa xinaatee / morphology / / morpholojjee / bayra beeraa bessiis. 1816 M.L. Franz Boo'eezepp kasetidi Sir Willian Jones 1806 M.L. Sanskrite, Laatine, Perssianenne  Jermane doonati issi ano doonaappe beettidosona giido, xinaatiyaa kaafiyaa/ maaddiyaa kuushshaa attamissiis. Boope naqaashay baaso oottidoy, ha qommoora qonccida doonatu seeraa/giraameriyaa/ hanotay qlaala xekkan waani xaafettiyakkonne annaa-cissiyoogaana.
+ 1819ppebiidi 1883' M.L. gakkanaashin de'iyaa wodiyan Jacob Grimm Deutsche Grammatic giyaa maxafaa attamissis.  Grimm saynise maaraa kaallida hanotan cengurssaa hanotaynne qalaay merettiyo hanota geddarssidi Germane doonaa ladda laamiyanne qassi Germane doonay Indo-Europeanetu doonaara dabbotiyo hanotaa bessiis.
+Guyyeppe, Dariwiine lodda lame qofay minnidi de'iyo wode, Max muller giyo phonologiya eranchchay1899 M.L. oksfordde yunibburshshiyan naata tamaarissiidi qaalatu ladda laamiyaa xana'iyoogee bayloojje asaanne mehiyaa ladda laamiyaa qonccissiyoogaadan doonati waaniwaani laddan laamettiyiidakkonne qonccissanawu maaddees giis.  Ha do'atinneassay waani merettidaakko xana'idoogeeta zerettay woykko xuussay awuppe yiidaakkonne giya gofan bari baatriya xomppiss. Grimm boxooxissidi odiyoogaadan 400-500 gakkanaashin de'iyaa Inddo Eurappiane doona kochcha gidiyaa cora Auroppanne Iisiyaa doonata qaalata xana'idoogee woykko pilggidoogee asaanaati haasayiyo doonatu xuussaa akeekanawu bayra beeraa beessiis (Miiller, 1899; Mattews 19'4nne katambba, --- pp3). 
+
+
+   Ladda laame gunddulaa / morpholojjiyaa/ xinaatiyawu maaddees giya qofay qaalatu mereta hanotaa xinaatiyaa taarikiyappe biroon maalladoora muleera attiaggiis. He wodiyan qaalatu mereta hanotay loddi loddi giidi laametti laametti yiyabaa gidennan de'ishin issito haniyabaa / 
+Syonchronic/ geetettidi qofettiyoogaa doomettiis. Doonatu de'uwan woykko layttan qaalatu quxaroy / word- structure / issitoo haniyaabaa waykko pilggettidi be'ettiyabaappe attin laddan laddan laamettena. Ubba doonaa pilgganchchati /lingguistteti/ issi qaalan maayettidi gunddulaa hanotay ladda laamiya qofaa hanotaara beenna giinikka, morpolojje/ qaalatu meretaa hanota dichchay naa'antto sha'aantta wodiyan lo''onne iitaanne (naa''umera). Hegaa sinttappe aahuwan be'ana.
+1.2. Qaalatu mereta Amerkkaa Doonaa pilggettaa xeelan /Morphology in American structural linguistics/
+Amerkkaa doonaa pilggettaa maaddiyaageeti/maayettiyaageeti doonaa pilggettaa doonati merettiyo ciimma qofadan /theory/ Keechi xeellokkona. Eti doonaa issi pari paridi saynise maaran xeelliyobaa goosona. Doonaa birshshidi pilggiyoogee issi doori ekkido sinttaa woykko baggaa sinttawu mooddidi qassi kaallidi hankkuwakko kanttiyooga giidi qofettees. Issi issi yafaraykka ogee doonaa pilggettaa xekkaa geetettidi qofettees.
+
+
+
+
+
+
+
+ Dumma dumma xekkati xade baggaara qonccidosona. 
+Semantike xekkaa	birshettaa oykkiyaagaa
+
+Syntaktiike xekkaa	kuushsha qofaa/yafaraa/oykkiyaagaa
+
+Morpolojje xekkaa	qaalati merettiyo hanotaa oykkiyaagaa
+
+Ponolojje xekkaa	cenggurssati meretiyo hanotaa oyikkiyagaa
+Ha xekkati kasiyaa kaluluwaa naagidi uttidosona; xadeen ponolojjan doommid biidi huphessan semantikiyaan/barshshetta teccettis. Sima yiggi yiggi doona gilggana uraa oosoy ha dumma dumma xekkatunaa kooyro watii cengguranaakko (pronaunciation) kaallidi qaalatu quxaruwa/ word-structure/ hegaappe qassi, yafaraa/sentence/ wurssettan, haasayatu birshshettaa pilggiyoogaa.
+ 1929 ppe 1945 M.L gakkanaashin Amerkkaa qaalaa pari paridi pilggiyaageeti/ structuralists/ doona dummatetta qonccissanawu cenggurssati waani maaddiyonaa giyogan keehi barchchetidosona. Hegaappe denddidaagan, issi qaalaa hara qaalappe dummayiyaa cenggurssatu ciimma qofaa/ phoneme theory / medhdhidosona (Sapir, 1925; Swadesh, 1934; Twaddell, 1935; harris, 1944).
+Wode sugisugi biishin, gundddulay /morpolojje/ushachcha kushiyan ohettiyoogee doomettiis. 1940 ppe biidi 1960M.L. gakkanaashin qaalatu mereta pilggettay gul''a sohuwaa oyqqiis.
+Chomiskke Qofaa maayettiyanne jeneretiibe seeraaa Qofaaa/The concept of chomskiyan generative grammare/
+Ha maxaafay qonccissiyoobaappe bayrabay, gunddualaa qofaa donaa pilggetttaaa chomskky baasidooggaa keten''idi shiishshiyoogaa. Ha ciimma qofay waaniyage woykko awuggee giyaagaa be'anaappe kasetidi nuuni jeneretiibe seera qofawatu baaso qofaa be'oos.
+Jereretiibe doonaa pilggettaa gul''a hoollee doonaa pilggettaa era akeekiyoogaanne ha eraa yiirati waati go'ettiyoonaa woykko akeekiyoonaa giyaagaa. Ha hoolliyaa xomppiyaan,qaalaa quxaruwaa ciimma qofay zaarana bessiyoobaaso oyshay “doonaa haasayiyaa assay bantta doonaan de'iyaa qaalatubaa ayba naqaashaa demmidi he demmidoogeeta hasayan ge'ettiyoona?” giyaaga. Ha oyshaa zaarana giidi malishin woykko baaxetishin qaalaa kochchaa (dikishineeriya)/ dictionary or lexicon/ giyonne gunddulaa /morphology/ giyo ciimma qofaa medhdhiyo ogiyaakko malaatiis. 
+Chomiskky (1980, 1981, 1986) attamissido maxaafatun gonccissidoogaadan doona pilggetawu baasoy issi doonaa assay erees giyowode he erees giyoobay I aybee? Hagaan chomiskky            akeekidobay issi doonaa eriyoogaa giyoogee nuuni issito loytti nabbabidi nukahan oyqqi uttido adussa kuushsha qofaa zaaretti zaarettidi giyoogaa gidennan de'ishin doonaa eriyoogaa 
+
+giyoogee shittinna woykko qooday baynna haasayata pulttissanawunne akeekanawu danddayiyoogaa giyoogaa. He pulttissiyoonne akeekiyo hasayati kase hara asiduchcha pulttissibeenna woykko siyi erennaageta gadanaw danddyoosona. Harabaggaara qassi medhdhiyaagee (creativity) ikka pulttissuwaa geetettiyaagee doonaa pilgetta ginaan xeelettees. Hegee keehi koshshiyaba.
+ Doonaa pilggettaa pulttissoy daroto seeray de'iyooba. Leemisuwaassi, Engglize qaalaa haasayiya assay sunttaa qonccissiyo issuwappe daro ogee diyoogaa eroosona. Hegaassi xekkaa woykko seeraa naagida oosoy sunttatubolli gaxa baggaara -s gujjiyoogaa. ‘Book’ giyaa engglize qaalaa koyro go'ettikko, qassi nuuyyo naa''u miishshay woykko ha nuuni qommoora be'ido issi maaxaafaa giyoogee naa''a gidikko Englize assay ‘books’ giidi xeegees. Engglize qaalaa haasayiyaa asaassi eti yaa'an uttana xaykkonne suntta qonccissiyoo qaalaa bolli-s gujjikko corayeesi giya seeray de'ees. 
+
+1.3. Qaalay aybee?
+Doonati qaalata bantta giddoon oyqqoosona giya qofay daro assay mayettiyoogaa. Haray attoshin tamaribeenna asaykka eti haasayiyo doonay qaalata oykkees giyoogaa eroosona. Issito issito awugaa citati woykko issi doonan assay go'ettiyo/haasayiyo/ haasayatuppe duuqeetidi qaala geetettiyoonagiya qofan dummatettay de'iyoogeee tuma. Leemisuwaassi, Engglize doonaa haasayiyaa assay, ‘all right’ giya qaalay issi qaaleyye naa''u qaalee giyaagan maayettennan aggana dandaayoosona. Hegaappe denddidaagan, ‘allright’ giyaa qaalay xaafettana koshshiyoy ha qommoora qonccidaagadan shaahettidi gidennan de'ishin issi qaalattuwa xaafettana koshshees giyaagan gita palamay denddana danddayees. Gidoppe attin assay nabbabidi be'iyaagan gidin siyiyoogan issi qaalay bantta doonaan de'iyaaga waykko baynnaagaa gidoogaa akeekiyoogan keehippe daro assay mayettees. Yaatiyo gishshaw issi doonaa haasayiyaa assay, awugee nu doonan de'iyaa qaalee awugee qassi gidennee giyoogan mayettoosona.  
+Engglize doonaa haasayiya assay, leemisaassi, ‘splody’ giya qaalay kaalliyaa yafaraa giddon bantta qaala gidennaaga eroosona. ‘The splodycat sat on the mat:’ Qassi ha ‘splody’ giyaagaappe hara ubbay bantta qaala gidiyoogaakka eroosona. 
+1.3.1. Ano Qaalaa / Lexeme / 
+‘Qaala giyoogee Aybee?giyaagaa paattidi pilggiyoogee qonccissido ha nuuni qommoora be'idoogaappe guuttaa undduwaalotti ekkees. ‘Qaalaa’ giyoobay darotoo qoncce gidenna. Hegaa nuuni kaalliyaa amarida menttotun be'ana danddayiyoogaadan ‘qaalaa’ giya qaalaa birshshiyoogan de'iyaa undduwaaloy baaso oottiyoy ‘qaala’ giyaagaa ubba wode keehi qoncce gidennanne shaahettibeennaa hwumma hanotan dumma dumma ogiyan go'ettiyooga. ‘Qaala’ giyoogee de'ees giyoo tumaa nuuni maayettiyageeta gidikko, ha nuuni undduwaalo giyo henota loyttidi xeellanawu danddyoos.
+Neeni maxaafaa nabbabbaydda de'ishin geelladan ‘pockled’ giyaa qaalaay koyro kochchooro nenaan gayttiyaakko waanute? 
+“He went to the pub for a pint and then pockled off?”Ha qaalaa birshshettaa eranawu woykko demmanawu neeni qaalaa birshshiyaa maxaafaa /dikshineeriyaa xeellana danddayaasa. Neeni ha qaalaa birshshettaa xeelliyo wode, xeellanawu bessiyay ‘pockled’ giya qaalaa gidennan de'ishin pockle giya qaalaa. ‘Pockled’ giyaa qaalay qaalaa birshshiyaa maxaafan woykko dikshineeriyan gelo qaaladan xaafettennagaa neeni eriyoo gashataassa. Qassikka, Ooninne neeyyo/neessi odana xaykkonne ‘pockling' giyanne ‘pockles’ giya qaalati de'ana danddiyiyoogaa eraasa. Ha'ikka neeni ‘pockling and pockle, pockled and pockles’ geetettiya ubba qaalati dumma dumma meran qoncciya ‘issi’ sheefa qaala sheeshsha gidiyoogaa eraasa. 
+  Ha sheefa (abstract) qaalaa hanotan dumma dumma meran qoncciyaagaa anoqaala giidi xeegeettees. Ha ‘pockling, pockles and pockled' giya dumma dumma merati issi POCKLE giya anoqaalaa qonccetettata woykko wokkaaleta gaanawu danddayettees. Ha ubbatikka issi baaso gidiya birshshettaappe denddosona. Etiissoy issoy dumma dumma hanotan xaafettiyaageetanne cenggurettiyaageeta gidikkonne ano qaalati qaalaa kochchata gididi qaalatu birshshettaa maxaafan woykko dikishineeriyan geliyaageeta woykko xaafettiyaageeta (Di Sciullonne Williams, 198'p.q)
+
+Kaallidi de'iyaa qaalatuppe awugeeti issi ano qaalaa yarate?
+Be'o                                oyqqees                                           na'a
+Xiskkees                          mishiro                  ohetta                      be'iis 
+Naata                              xiskko                    be'ettiis                         
+Be'iddi de'ees                          gufa                    mishirota                       xiskkiis
+Oyqqiyoogaa                          be'ees
+Guppiis                                  xiskkiyoogaa
+Guppees                               ohettiis
+guppiyoogaa
+                         Nuuni ubbaykka maayettiyoogaadan:
+Qonccida qaala- merati wogga pitaliyan xaafettida ano qaalatu qonccetettata
+Ano qaalata
+be'o, be'ees, be'iddi dees, be'ettiis                             BE'O
+       XISKKO
+xiskkees, xiskkiiddide'ees, xiskkiis                                           OYQETTA
+oyqetta, oyqqees, oyqqiiddide'ees,
+oyqettiis
+
+
+
+Xade baggaara de'iyaa qaalaa merati etappe sintta baggaara wogga pitaliyan xaafettida ano qaalatu qonccetettata
+Ano qaalata
+gufa, guppees, guppiis,                                                               GUFA
+guppiiddi de'ees,                                                                           NA'A
+na'a, naata
+mishiro, mishirota	  MISHIRO
+1.3.1.2. Qalaa Meretaa / Word- form /
+Nuuni ha qommoora be'idoogaadan, nuuni ‘qaala’ giya qaalaa go'ettiyo wode, he nuuni go'ettiyo qaalay sheefa qaalaa / abstruct vocabulary (lexeme)/ gidennan de'ishin nuuni ge'ettiyoogee ano qaalay / lexeme/dumma summa ogiyan qoncciyaagaa. Nuuni dumma dumma haasayan gidin xaafuwan ha ‘qaalaa’ giyo sheefa qaalaa hegeekka ano qaalay dumma dumma hanotan qoncciyaaga ge'ettoos giyoogaa. Hara guussan, qaalay merettiyo macaraappe issuwaa go'etteettees giyoogaa. Yaatiyo gishshawu, be'o, be'ees, be'iddi de'ees, be'iisnne be'ettiis’ichchashu dumma dumma qaala gidoosona. Nuuni ‘be'o’ giyaa qaalawu heezzu dumma dumma pitaleti de'oosona giyaagaa akeekanawu danddayoos. Qassikka‘be'iddide'ees’ giyaa qaalawu tammanne heezzu dumma dumma pitaleti de'iyooge qoncce. Hegaadankka nuuni issi imettida nibaabiya giddoon de'yaa qaalata qoodiyageeta woykko paydiyaapeeta gidikko, ‘be'o, be'ees, be'iddide'ees, be'iisnne be'ettiis’ giyaageeti ichchoshu dumma dumma qaalata gididi issi anoqaalaa dumma dumma qonccetettata gidiyoogaa akeekanawu danddayoos.
+
+
+
+
+Meeziyaa:
+Hagaappe xadeera imettida  sohuwan tammu dumma dumma ano qaalata xaafidi he ano qaalatuppe dumma dumma hanotan qonccanawu danddayiyaa sheefa qaalata / abstruct vocabulary / dummayidi woykko qori kessidi paattidi qonccissite.
+1.	---------------------------------------------------------------------------------------------------------------------
+2.	---------------------------------------------------------------------------------------------------------------------
+3.	---------------------------------------------------------------------------------------------------------------------
+4.	---------------------------------------------------------------------------------------------------------------------
+5.	---------------------------------------------------------------------------------------------------------------------
+6.	---------------------------------------------------------------------------------------------------------------------
+7.	---------------------------------------------------------------------------------------------------------------------
+8.	---------------------------------------------------------------------------------------------------------------------
+        1.3.1.3. Seera qaalaa / the grammatical word /
+‘Qaalay’ ano qaalaa qonccetettaa gididi qassi gunddulanne yafaraa eeshshay diyoogaa gidanawu danddayees. Hegaa giyoogee, bagga eeshshay gunddula qassi bagga eeshshay yafara/ sentence/ gididi naa''u eeshshaakka oyqqidaagaa giyoogaa. Leemisuwaassi, sunttaa, peeshuwaa, mattumaa, payduwaa, wodiyaa/ tense/ h.h.m. Hagaa mala eeshshan woykko hanotan qoncciyaa qaalaa seera qaalaa geettees. 
+   Ane kaallidi ‘qanxxo’ giyaa qaalay naa''u dumma dumma seera qaalata wokkaliyoogaa be'oos. 
+a)	Taani ubbato yeechchaa mashshan qanxxays.
+b)	Taani zino neeni yiyo wode, yeechchaa baacan qanxxays. 
+Qommoora nuuni be'idoogaadan issi qaala-meretay ‘qanxxays’ giyaagee ano qaalaa QANXXO giyaagaa dumma dumma qonccetettay, naa''u dumma dumma seera-qaalata wokkaalees. Leemisuwaa (a) n de'iyaa ‘qanxxays’ giyaagee seera qaalaa qonxxays giyaagaa gididi ( peesho, ha''i wodiyaa, heezzantto asa gidennaagaa ), hegaa giyoogee ha''i wodiyaa qonccissiyaagaa, heezzantto izaawaa qonecissiyaagaa gidennaagaa gididi, peeshuwaa qonccissiyaagaa shin leemisuwaa (b)n de'iyaagee seera qaalaa ‘qanxxays’ giyaagaa gididi ?Peeshuwaanne aadhdhida wodiyaa qonccissiyaagaa ? hagaa giyoogee qanttan leemisuwaa (b)n de'iyaagee qanxxays giyasheefa qaalaa ge'ettidi aadhdhida wodiyan haniiddi de'ida qofaa qonccissiyaagaa giyoogaa.
+   Ha qommoora nuuni be'ido naa''u seera qaalati qanxxo giyaa ano qaalaappe dumma dumma qaalaa meretan qonccidaageetuppe haray nuuni be'ana woykko akeekanawu danddyiyoogee de'ees. Hegaassi kaalliyaa leemisuwaa akeekite. Xoona kushiyaan qanxxoy de'ees. Ha seera qaalay ?Suntta,selle ?. Hagee qassi dumma ano qaalaappe qonccida sheefa qaalaa. He ano qaalay ‘QANXXO’ giyaagaa. Ha kasenuuni qommoora be'idoogeti peeshuwaa / verb/ ano qaalaappe dumma dumma hanotan qonccidaageeta gidiyoogaa be'ida. Ha hankko qassi ‘Xoona kushiyan qanxxoy de'ees’ giyaagaan de'iyaa sheefa qaalay sunttaa (noun) ano qaalaappe qonccidaagaa woykko wokkaaliyaagaa. 
+Ha qommoora nuuni be'ido naa''u seera qaalati qanxxo giyaa ano qaalaappe dumma dumma qaalaa meretan qonccidaageetuppe haray nuuni be'ana woykko akeekanawu danddyiyoogee de'ees. Hegaassi kaalliyaa leemisuwaa akeekite. Xoona kushiyaan qanxxoy de'ees. Ha seera qaalay ?Suntta, selle ?. Hagee qassi dumma ano qaalaappe qonccida sheefa qaalaa. He ano qaalay ‘QANXXO’ giyaagaa. Ha kase nuuni qommoora be'idoogeti peeshuwaa / verb/ ano qaalaappe dumma dumma hanotan qonccidaageeta gidiyoogaa be'ida. Ha hankko qassi ‘Xoona kushiyan qanxxoy de'ees’ giyaagaan de'iyaa sheefa qaalay sunttaa (noun) ano qaalaappe qonccidaagaa woykko wokkaaliyaagaa. 
+Meeziyaa:
+Hagaappe kaallidi ichchoshu ano qaalata dooridi xaafite. Yaatisimmidi issuwaassi issuwassi naa''u dumma dumma wodiyaa/tense / qonccissiyaa kuushsha qofata xaafidi ciimma paatettaa immite.
+1.										
+2.										
+3.										
+4.										
+5.																			
+Hagaappe xadeera cimma paatettaa xaafite.
+																		
+1.4. Gunddulata: birshshettawu kooyro qeeri hum''uwaa
+ Gunddula giyoogee qaalaa meretaa paattidi pilggiyaagaa. Qaalati shaahetti shaahettidi merettiyo hanotaa qofay malaaliyaba gidanawu danddayees. Gaasoykka haasayiyaa assay qoppiyoy qaalata issi shaahettana dananddayenna haasaya macarata giidi qoppiyo gishawu. Hegee ayssi qofetti giyaa oyshawu zaaro gidiyaagee daro qaalatussi keehi qoncce gidiyaa gunddulay di'iyo gishsha giyaagaa gidanawu danddayees. Leemisuwau meetta, oyde, bollaan, wurkkaawurkkuwaah.h. malatiyaageeti suuppatidi shaahettanawu danddayokkona. Ayssi giikko eta naa''awu woykko heezzawu shaakkikko he shaahoti banttarkka birshshetta immana danddayokona. Oy-dewoykko boll-aan, wurkkaa- wurkkuwaa gaanawu danddayettenna. He shaahoti banttarkka woykko barkka birshshetta immokkona. 
+Gidoppe attin, keehi daro wolaytta qaalatussi gunddulay keehin undduwaalo. Eti birshshettay de'iyo suuppa gunddulatun shaahettoosona. Hagaa tuma oottiyaa qaalata ekkidi ane be'oos. ‘boorata’ giyaanneoydeta giyaa qaalata ekkikko, leemisuwassi boora giyaa qaalay issi booraa qonccissiyaagaa gidees. Hankko oyde giyaa qaalaykka hegaadan issi oydiyaa gonccissees. Hara baggaara qassi, ha nuuni qommoora be'ido naa''u (booratanne oydeta) qaalatun de'iyaa-ta giyaagee coratettaa bessiyaa seeraa haggaazuwaa / grammatical function/ qonccissiyaagaa. 
+Gunddula giyaa qaalay shaahettana danddayenna wurssetta birshshettay de'iyoo woykko he qaalatun somettida seera haggaazuwaa/ grammatical function/ ginccissiyaageeta qonccissiyaagaa. Yaatiyo gishshawu gunddula giyoogee harantto suuppayanawu danddayettennaagaa gididi barkka eqqiyaagaa (birshshettay de'iyoogaa) woykko coratettaa gidin selletettaa sunttaa bolli somettidi qonccissiyaa seeraa haggaazuwaa polliyaagaa. Nuuni oyde giyaa qaalaa (issi gunddullaa oyqqidaagaa) shaakkiyaabaa gidikko, (oy)nne (de) gidees. Issi issi shaahoy woygiyaa birshshettaa immiyaakko erettenna woykko birshshettibaawa.
+Issi pitale gidin cora pitaleta woykko pitaletu citaa gidin gonddulaa wokkaaliyaageeta gidiyoogaa nuuni eran danddayiyoy awudee?
+ Issi pitale gidin cora pitaleta gidinkka gunddullaa qonccissiyaageeta gaanawu danddayiyuooge he eti (pitaleti) shiiqidi medhdhiyo qaalaa hanotan maacettees. Yaatiyo gishshawu issi sohuwan gunddula gidiyaa pitaletu citay hara sohuwan qassi he issi sohuwan gunddula gidida pitaletu citay gunddula gidenna hanotay de'anawu danddayees. Leemisuwaassi, -nna giyaa pitaletu citay issi hani beennabaa waykko polettibeennabaa wokkaaliyaa woykko qonccissiyaa gunddula gidiyoogaa kaallidi de`iyaa leemisuwaappe be'anawu danddayettees. 
+a)	xooni hachchi giyaa beenna.
+b)	Booray maataa meenna.
+c)	Booray maataa mees. 
+
+Ha qommoora nuuni be'ido leemisotun a nine bn de'iyageetun 
+-nna giyaagee gunddula.  Gaasoykka he naa''u leemisotunkka -nna giyaagee ixxiis woykko hani beennaba qonccissees. Yaatiyo gishshawu birshshettaa immees giyoogaa. Hara baggaara qassi ‘hinna na'iyaa oonee?’ giyaagan de'iyaa ‘ hinna’ giyaa qaalan nuuni be'iyo-nna giyaagee gunddula gidenna. Gaasoykka ‘ hinna’ giyaa qaalay birshshettay de'iyo hara suuppa gunddulatun shaahettanawu danddayennaagaa gidiyo gishshataassa.Gunddullata leemisuwan bessana koyiyowode some malaatan (-) shaakkana .
+Gunddulati nuuni dumma dumma qaalata medhdhanawu ge'ettiyo ashanggulate pitaletumala. Ashanggulute pitaleta shiishshidi issi qaalaa medhdhidi kolidi/ laalidi qassi sohuwaa laammikko hara qaalaa medhdhoosona. Hegaadankka elle elle nuuni go'ettiyo issi birshshettaa immiyaa qaala kifileti issi gunddula gididi dumma dumma hanotan qoncciyaageeta. Leemisawu ha nuuni qommoora be'ido-nna giyaa gunddulay qoodanawu danddayettenacora qaalatun beetanawu danddayiyoogee qoncce. Nuuni hegaa geenna, deenna, yeenna, siyenna, likkenna balenna, erennah.h. malatiyaa cora qaalatun demmanawu woykko be'anawu danddayoos. 
+Godoppeattin, zaari zaaridi cora qaalatun qoncciyoogee gunddulaassi bayira ooso gidenna. Issito isssito gunddulay keehin amarida qaalatu xalaalankka qonccees.  Ha tumatettaa Ingglize doonaa gunddulaa –dom(birshshettay hanotaa, bonchchuwaa imissiyaa eeshshaa (condition, diginity)qonccissiyaagaa) giyaagaa ekkikko martryom, kingdom, chiefdom h.h. malatiya amarida qaalatu xallan go'etteettees. Ha qofaa / gunddull aabaa/ gujjidikka qonccissanawu kaallidi de'iyaa leemisota loyttidi akeekoos. 
+a.	-chcha      olan-chcha, kaassan-chcha,zigirssan-chcha
+-tetta   Kawotetta, daanna-tetta, isha-tetta, bootta-tetta, karetta-tetta
+-ta        para-ta, mehe-ta, asa-ta, naa-ta 
+b.	-erett- mentt-erett-a , mentt-erett-u
+
+Meeziyaa: 1. Ha qommoora imettida gunddulatuyo issuwawu issuwawu birshshettaa xaafite. 
+									
+									
+2. Gunddulati somettido haasaya macaray aybee ( sunttee, peeshoo, sunqqoo)? Qassi gunddulati sometti simmin haasaya macaray ayba gididee ? (sunttashin peesho gididee, peesho shin suntta gididee, suntta shin sunqqo gididee … ) qonccissidi xaafite. 
+																		
+Ha qommoora de'iyaa oyshaawu zaaruwaa immideta gaada qoppays. Imettida qaalatun somettida gunddulati bantta sometto qaalaa bolli xeellin beettiyaa birshshettaa dummatetta issoti issoti ehanawu danddayiyoogaa akeekettees.-tetta giyaa gunddulaybootta giyaa sunqqoqaalaan somettidi boottatettaa giyaa sunttaa immees. 
+
+Xaaxiwaaxin ‘issibaa hanotettaa’ qonccissees giyaagaa. -erett- giyaa gunddulay qaalaa gidduwan somettidi issiban issito polidi aggiigiyaogaappe hebaa zaaretti zaarettidi polana mala kiitaa immiyaa/aattiyaa qaalaa medhdhees woykko immees. 
+Hanno gakkanaashin qaalata issi woykko naa''u gunddulata ekkidi qonccissida. Hegaa xalaala gidennan de'ishin cora gunddulata issippe gattidi keehi undduwaalo gidida qaalaa medhdhanawu danddayettees. Hagee adussa qaalata hegeetikka mentt-eretta mentt-erett-a-y- chcha mentt-erett-a-y- chchair-kki h.h. malatiyaageeta bolli gunddulaa gujji gujjidi xaafiyo wode keehi undduwaalo gidi gididi boosona. Gidoshin hagaadan qaalata shaakerettanawu baaso gidiyaabay aybee? Giyaa oyshay denddanawunne zaaroy imettanawu bessiyaaba. Kaalliya shotun gunddulati waani waani shaahettiyaakko paacci xeellana. 
+1.4.1. Qaalatu paretta / Analysing Words /
+Hanno gakkanaashin nuuni gunddulaa shaakki eranawu woykko dummayanauu birshettaa wogaa kaallida. Daroto birshettan issuwaa malatiyaa qaala kochchati issi qommo gunddulla geetettide aggettoosona. Issito issito gunddulatu birshshettay barchcheyiyo wode, eta birshshettaa immiyaa maxaaftun xeelliyoogee koshshiyaaba. 
+
+1.4.2. Gunddulata
+Issi wode gunddula shaakkidi eranawu lefa ogiyaa woykko seeraa kaalliyoogee irggixe oge geetettidi isttrukchcheraale doonaa pilgganchchatun xeelettiis. Hagee Harris, giyaa pilgganchchay paranjja qoodan 1951 M.L. xaafido maxaafan qoncciis. Gidoppe attin ha qofay kessenna qofa gidiyoogaa akeekanawu daro wodiyaa ekkibeenna. Gam''enna matan dariyaa bagga doonaa pilgganchchati tilla gidida gunddula pilggettawu kaalettiyaa ogiyaa woykko qofaa pulttissi aggidosona. Chomoskky 1957: 49-60 gakkanaashin de'iyaa sinttan qonccissidoogaadan xaaxi waaxin saynisee danchcha naqaashaaninne ciimma pilggettan baaso oottiyoogaadan doonaa pilggettaykka hegaa mala ogiyaa kaallees. Issi doonaa seeraa xaafanawu he doonay ayba mala denddo qofaa koyi giidi denddo gidiyaa qofaa/ theory/ giigissidi, qassikka coo amarida naqaashaanne meeze qofaa denddo oottidi gedennan de'ishin issi doonaa qaalay waani parettiyakko keehi ciimma pilggettaaninne akkeekan aassidi akeekanawu bessees. 
+Gidoppe attin, issi doonaa seeraa pilggidi gakkanawu lefa gidida ogeti xaaxi waaxin gidin nu heran ammanttiyaagee ta gidana xaykkokka, gunddula pilggiyaa eranchchati ammanettiyonne keehi aahuwan go'ettiyo hiillay de'ees. He hiillay ha maxaafan qoncciis. 
+Qaalata pariyoogan de'iyaa gita machchay birshshettan eqettiyo maachchaa woykko phalqqettiyaa birshshettaa immiyoo maachchaa(the principle of contrast):
+Ha eqettiyaa qaalati awugeetee?Giikko
+i)	Phonolojjiyaa meretaa. Hegeekka cenggurssatuura ohettiyaaganne
+ii)	Birshshettaana. Hagee naa''u ogiyan xeelettees. Koyroy ano qaalaa birshshettaanne doonaa seeraa kaallidi yiyaa birshshettaa. Yaatiyo gishshawu ponoloojjiyaa dummatettay /bo:ra/nne/mi:ziyo/ giyaa qaalatu giddon birshshettaa dummatettaa ehees. Ha naa''u kaallidi de'iyaa qofa qashotu birshshettaa dummatettay (Booray maataa mees giyaanne Miizziyaa maataa mawusu giyaa kuushsha)
+Qofatu giddon de'iyaa dummatettay xeelliyoy Boora giyaagaanne miizziyo giyaagaa. Hegaadankka doonaa seeraa dummatettay qassi ( miiddi de'ees (ha'i wodiyaa ) nne miis (aadhdhida wodiyaa ) giyaa dummatettay xeelliyoy doonaa seeraa go'aa dummatettaa.
+Birshshettaa: Gunddullay qaalan gidin kuushsha qofaan de'iyaa laafa dummatetta gididi qaalay merettiyo hanota dummatettaara gayttiyaagaa. 
+Qaalata qunddulla xekkan pariyoogee paranjj qaalan ‘morph’ giyoogaa shaakkiyoogaappe woykko dummayiyoogaappe doommees. ‘Morph’giyoogee issi pitale woykko issuwappe coriyaa pitale xekkan issi gunddulaa woykko qaalaa haraappe dummayiyaabaa. Ha ‘Morph’ giyaa qaalaa wokkaaliyaa qaalaa wolayttattuwan demmanawu barchchiyaa bessees. Ha ‘morph’ giyoogaa eranawu ane kaalliyaa leemisota be'oos. 
+Leemisoy wolayttattuwan bessanawu injjetenna gishshawu paranjjattuwan be'idi qassi nu qaalawu birshshana. 
+
+Leemisuwaa: a)I parked the car. Ta kaamiyaa essaas.
+b)We parked the car. Nu kaamiyaa essida.
+a)	I park the car. Ta kaamiyaa essays.
+b)	He parked the car. I kaamiyaa essiis. 
+c)	She parked the car. A kaamiyaa essaasu.
+d)	She parks the car. A kaamiyaa essawusu. 
+e)	We park the car. Nu kaamiyaa essoos.
+f)	He parks the car. I kaamiyaa essees. 
+Ha qommoora be'ido leemisotun ‘morph’ giyoogeeti awugeetakkonne paranjjatto leemisuwaa kaallidi be'oos.
+‘ Morph’Qonccido sohuwaa
+/aI/’I’ --------------------------------------- leemisuwaa a nne c
+/Si:/’she’ ----------------------------------leemisuwaa e nne f
+/hi:/’he’ ------------------------------------ leemisuwaa d nne h
+/aa/’the’ ----------------------------------- ubba leemisotunkka
+/ka:/`car` --------------------------------- ubba Leemisotunkka
+/pairk/ ‘park’ --------------------------- ‘park’ giyaagee ubba Leemisotunkka qoncciis.
+
+Issito issito-ed giyaa somiyaara qoncciiss. Issito issito qassis giyoo somiyaarann issito qassi barkka qoncciis /t/-‘ed’ ‘park’ giyaa qaala bolli leemisuwaa a,b,dnne e n qoncciis.
+/S/ ‘-s/ ‘park’ giyaa qaalaa bolli leemisuwaa  f nne  hn qoncciis .
+Ha qofaa gujjuidikka be'anawu, ane kaallidi nuuni qommoora Ingglize doonaa be'oogaadankka hara qassi ubba nunaara meeze gidenna doonaa qaalata ekkidi be'oos. Hegaassi kaallidi de'iyaa naqaashaa xana'ite. Ha naqaashay ekettidoy luganda giyo doonappe ekettidaagaa. Xana'idi morpheta dummayite.
+
+1.	Tulilaba   kitabo           ‘ we will see a book ‘
+2.	Tuligula   katabo           ‘ we will buy a little book ‘
+3.	Baalaba    bitabo          ‘ they saw  books’
+4.	Tulilaba    butabo          ‘ We will see little books’
+5.	Balilaba    kitabo           ‘ they will see a book’
+6.	Tulilaba   bitabo            ‘we will see books’
+7.	Baatunda   butabo        ‘ they sold little books’
+8.	Baligula    bitabo           ‘ they will buy books’
+9.	Baagula    katabo          ‘ they bought a little book’
+10.	Tutunda   bitabo            ‘we sell books’
+
+Wolayttatto birshshettaa
+1.	Tulilaba   kitabo           ‘ Nuuni maxaafa be' ana ‘
+2.	Tuligula   katabo           ‘ Nuuni qeeri maxaafa shammana ‘
+3.	Baalaba    bitabo          ‘ Eti maxaafa be'idosona’
+4.	Tulilaba    butabo          ‘ Nuuni qeeri maxaafata be'ana’
+5.	Balilaba    kitabo           ‘ Eti maxaafa be'ana’
+6.	Tulilaba   bitabo            ‘Nuuni maxaafa be'ana’
+7.	Baatunda   butabo        ‘ Eti qeeri maxaafata bayzzidodona’
+8.	Baligula    bitabo          ‘ Eti maxaafata shammana’
+9.	Baagula    katabo         ‘ Eti qeeri maxafata shammidosona’
+10.	Tutunda   bitabo           ‘Nuuni maxaafata bayzzana’
+Qonccissuwaa:
+ A. maxaafaa giya qaalay ubba kuushsha qofatunkka qoncciisshin issuwan selle giddidi qoncciis issuwaan qassi cora gididi qoncciis.
+B. ‘maxaafa’ giyaagee issito issito qeeri maxaafaa qonccissees issito issito qassi wogga/asay go'ettiyo suure maxaafaa qonccissees.
+C.  Heezzu dumma dumma peeshoti de'oosona.
+D. Ha peeshoti dumma dumma wodiyaa qonccissoosona.
+E. peeshotuyo dumma dumma keettaawati de'oosona.
+Ha nuuni qommoora be'ido hara/erenna qaalatu birshshettay woykko zaaroy kaallidi imettiis.
+-tabo ‘ maxaafa’
+tu- ‘nuuni’
+ki-  ‘ selle’( woggaa)
+         Sunttaappe sinttarara
+         Semettiyaagaa 
+-laba  ‘ be'o
+ba-    ‘eta’
+bi-   ‘ cora’( wooggaa)
+      Sunttaappe sinttara somettyaagaa 
+-tunda  ‘ bayzo’
+-a-   ‘aadhdhida wodiyaa qonccissiyaagaa’
+bu-    ‘cora ( qeeraa) sunttappe sinttaara somettiyaagaa’ 
+issi issi morpheti dumma dumma gunddulata wokkaaloosona.
+Gidoppe attin hegee ubba wode tuma gidenna. Ayssi giikko issito issito dumma dumma morpheti issi gunddulaawokkaaloosona.
+Leemisuwaassi, ingglize doonan aadhdhida wodiyaa qonccissiyaa qoncce eeshshaa kaalliyaa peeshoti (regular verbs), hegeetikka, -edgeetetti xaafettiyaageeti nuuni haasayiyo wode /id/, /d/ woykko /t/ geetetettiyaa heezzu dumma dumma ogiyan qonccoosona.
+Hegeekka:
+a.	peeshshoy  /d/ woykko /t/ giyo pitaletuppe issuwan wurikko, /Id/n qonccees
+Leemisuwaa  /mend/,   ?  / mend Id/,      /peInt/,    ?  /PeInt Id/ 
+‘mend’   ‘ mended ‘     
+‘ paint’     painted’
+b.	Peeshoy giiriyaa cenggurssan ( Id/ ppe haran) wurikko  /d/n qonccees.
+Leemisuwaa   : / kli:n/? / kli: nd/      /weI/    ?  /weId/
+‘ clean’        ‘ cleaned’   
+‘ weigh’     ‘ weighed’
+c.	Peeshoy /t/ gidennan diishin hara giirenna cenggurssan aygaaninne wuriyo wode /t/n qonccees
+Leemisuwaa :- / pa:k/   ?     / pa:kt/        /mIs  /  ?  /mIst/
+                               ‘park’      ‘parked’    
+‘ miss’      ‘missed’
+Dumma dumma morphet issi dunddulaa wokkaalikko, hegeeti issicitan zaggettoosona. Ayssi giikko eit ubbay issippe he issi dunddulaa qonccissoosona. Hegeeti he issi duddulaa qonccissiyaa morpheti doonaa pilggettaa saynisiyan ‘allormorph’geetetti xeegettoosona .yaatiyo gishshawu, 
+/Id/, /d/ nne /t/ Ingglize doonaan  aadhdhida wodiyaa qonccissiyaa gunddulaa dumma dumma hanotan qonccissiyaa allomorph geetettiyaageeta giyoogaa.
+Gunddulaa, dunddulaa dumma dumma hanotan qonccissiya allomorpheta nne morph geetetiyaggeeta dabbota misiliyan ge'ettidi kaalliygaadan qonccissona danddayettees.
+Ingglize doonaa
+Gunddlla
+‘Aadhdhida wodiyaa’
+
+allomorphiyaa        allomorphiyaa                            allomorphiyaa
+
+morphiyaa                    morphiyaa                               morphiyaa
+ / Id/       /d/                 /t/
+
+Ha qommoora be'ido leemisuwappe denddidi nuuni:
+i.    /Id/,   /d/    nne  /t/   Ingglize morpheta.
+ii.Ha heezzu morpheta nuuni issi citan zaggidi aadhdhida wodiyaa qonccissssiyaa allomorphetta gaanawu danddayoos. Gunddulata dummayidi eriyo baaso hiillay eti gishettiyo qofaa / notion of distribution /. Ha morph giyoogeeta nuuni  allomorph giidi zagganawu danddayiyoy eti issoy eqqiyoosan haray eqqana xaykko /complementary distribution/. Hegaa giyoogee, morph giyoogeeti issoy eqqiyoosan haray eqenna gaanawu danddayettiyoy,
+i,Eti issi birshshetta wokkaalikko woykko iss doonaa seeraa haggaazikko.
+ii. Issoy beettiyoosan haray mule beettana xaykko.
+Hegaa gishshauw ha heezzu morpheti    /-Id/, /-d/    nne / -t/   Ingglize doonaa aadhdhida wodiyaa wokkaaliyaageti issoy eqqiyoosan harati eqqokkona. Qommoora nuuni be'idoogaa dan eti issi gunddulaa qonccissiyaa allomorpheta.
+
+Ane ha''i qassi gujjidikka Ingglize qaalatuppe amaridaageeta ekkidi qaalatun garssaara yafarettidaageeti waani xeegettiyaakko giyaagan baaso oottidi be'oos. He garssaara yafarettidaageeti gidenna woykko hanennagiyaa birshshettaa immiyaagundula in- giyaagaa qonccissiyaageeta. 	
+a.	Impossible         [ ImposIbl]   danddayettenna
+Impatient          [ImpeISnt]                           danddayi baynnaagaa
+Immovable       [Imuvabl]                                     qaaxxennabaa
+b.	Intolerable       [Intolarabl]                                  naagettennaagaa                
+Indecent         [Indi: sant]
+Intangible       [Intaend 3 Ibl]                                cucumettennaba
+c.	Incomplete      [ Inkampli:t]                                    pacabaa
+Incompatable    [InkampaetIbl]                              waaxettennabaa
+
+Meeziyaa:
+a.	Ha hanenna waykko gidenna giyaa gunddulaa qonccissiyaa dumma dumma eeshshata (allomorpheta) dummayada paattada qonccissa.
+												
+b.	Issi issi allomorpheta qonccissiyaa qofaa xaafa.
+												
+Ha in- giyaa gunddulaa dumma hanotan qonccissiyaa allomorpheta kaalliyaagaadan qonccissanawu danddayettees.
+In- [Im -],  in   [In]   in-  [I]
+Issi qaalan qonccido hanotan ha allomorpheta coo hagaadan hanees giidi yedan dummayokko. Ha qommoora nuuni be'ido leemisotun konkkiyaa cenggurssay in- giyaa gunddulaa qonccissanawu ba heeran de'iyaa pitaletun ketten''idi dumma dumma ogiyan cenggurettees. Ha qommoora qonccida allomprpheta dooranawu woykko dummay- anawu xade baggaara qonccida seeraa koshshees.
+a.	P,b, f , m malatiyaa menttershshaa guttuma cenggurssatuppe kasetidi [Im] giyo allomorphee beettees.
+Leemisuwaa :
+[Im] possible
+[Im] movable
+b.	K (nuuni be'ido leemisuwan Cn xaafettiis ) nne g malatiyaa shugo gaaginaa guttuma cenggurssatuppe kasetidi [I]  giyaa allolorphee beettees.
+Leemisuwaa: 
+[I]  compatibl 
+[I]   complete
+c.	Diddina cenggurssa gidida awugaappenne gidin hegeekka t,d,s,z,n malatiyaageetuppe kasetidi [In] giyaa allomorphee beettees.
+Heezzu allomorpheti [Im], [In], nne [I]in- giyaa gunddulaa qonccissiyaageeti issoy eqqiyoosan woykko beettiyoosan haray eqqokkona woykko beettokkona. Hegaa giyoogee issuwaa dooriyoogee haraa gaxan esseess giyoogaa. Etappe naa''ay mulekka issi man''iyan beettanawu danddayokkona.
+Ha nuuin qommoora be'ido leemisoti keehi meeze gidida guddulaa qonccissoosona. Issi gunddulaassi cora allomorpheti de'ikko, he allomorphiyaa dooriyo hanotay cenggurssaa xinaatiyaa maaraana ( phonologically conditioned) . Hagaa giyoogee issi gunddulaa qonccissanawu dumma dumma hanotan beettiyaa allomorphetu cenggurssa xinaatiyaa hanotay he allomorpheti beettiyo /geliyo heeran diyaa hara gunddulaa allomorphetu cenggurssaara malatees giyoogaa. Gunddulaa bolli somettiyanne he some somettiyo 
+
+gunddulaa kooyro pitaliyaa giddon de'iya maletettay woykko dabbotettay malatissuwaa ( assimilation)giyo doonaa pilgeettaa seeraa maaraana. Somiya cenggurettay i: somettiyo gunddulaassi koyruwan de'iyaa pitaliyaa cenggurettaara mayettana  malagiigees. Hegaa gidiyo gishshawu, kase nuuni qommoora be'ido leemisuwan ( impossible…) mettershshaa guttumaa [m] [Im] gididi hankko mettershshaa guttumaa [p] ppe sinttaara beettees. Diddinaa guttumaa [n] [In] gididi diddinaa cenggurssaappe sinttaara  qassikka shugo gaaginaa guttumaa []  [I] gididi  shugo gaaginaa guttumaappe sinttaara  de'iyaagaara issi mala sohuwan merettiyaageeta.
+Ane qassi ha nuui kase be'ido Ingglize doonaa qaalaakko simmidi aadhdhida wodiyaa qonccissiyaa gunddulaa be'oos . He allomorpheti qonccido hanotaykka cenggurssa xinaatiyaa maaran gidiyoogee boxooxa qoncce. /-Id/ diddinaa teqettatuppe /t/ nne /d/ kaallid geliis. Hegan issibaa akeekanaagee,I giyo usttay gidduwan gelikkonne nababissanwu geliisppe attin ha nuuni haasayiiddi de'iyo saynise qoofaa phalqqennaagaa gidiyoogaa . Giiriyaa /-d/ giiriyaa pitaleta /d/ ppe kareeraa /t/ giirenna pitaleta izaawuppe /t/ ppe kareera de'iyaa ubbaa kaallidi geliis.
+
+Seeraa hanotaanne Ano qaalaa hanotaa/ grammatically conditioned and lexically conditioned/
+Qommo baggaara nuunni be'idoogaadan, allomorphetu qonccetettay cenggurssaa xinaatiyaa hanotan / lexical condition / maacettiyoogaa gidiyoogaa akeekida . Gidoppe attin, issito issito cenggurssaa xinaatiyaa hanotay allomorpheta dooriyoogan beeraa bessanawu danddayenna hanotati de'oosona. Hegaa gishshataassiha allomorpheta  dooranawuseeraahanotay/grammatically conditioned/koyettees. Hegaa giyoogee allomorpheta dooranaagee seeran keten''idi zaaroy beettees giyoogaa. Dumma eeshshay de'iyo allomorphe koyettana woykko koshshanawu danddayeess. He allomorphe koyettido ogiyaa qonccissiyaa cenggurssaa xinaatiyaa hanotay hagaa gaanawu erettenna. 
+
+Leemisuwaassi, ha xadeera qonccida naqaashatun an de'iyaagan allomorpheta dooriyo ogee qoncce. Heezzu qaalatunkka aadhdhida wodiyaa qonccissiyaa /-ed/ giyaa gunddulay he qaalati ha'i wodiyaa qonccissoogaappe issi pitaleenne laamettennan de'ishin  /-ed/  ekkoosona. /-ed/ qassi heezzu qaalatunkka wurssettan de'iyaa giirenna cenggurssata kaallidi geliyo gishshawu /t/ giyaa cenggurssan nabbabettees woykko cenggurettees.
+Hara baggaara qassi, lemisuwaa, b nne Cn qonccidaagee aadhdhida wodiyaa qonccissanwu guddulay koyro ha'i wodiyan qonccidoogaappe laamettidi dumma allomorpheta  koyees. Leemisuwaa  b nne   C loyttada xeella. 
+
+ Ha'i wodiyaaAadhdhida wodiyaa
+a.	Walk       / wo:k/                                    walk-ed              / wo:kt/
+Kiss       / ki:s/                                        kiss-ed              / ki:st/
+Grasp     / gra:sp/                                    grasp-ed          / gra:spt/
+b.	Weep      /wi:p/                                       wep-t              /wept/
+Sweep     /swi:p/                                     swep-t            / swept/
+c.	Shake     / seIk/                                       shook               /suk/
+Take       / teIk/                                       took                  /tuk/
+
+
+Leemisuwaabn allomorphetu dooroy seeraa hanotana / grammatically conditioned/. Ha'i wodiyaa qonccissiyaa peeshoti weepnnesweep giyaageeti aadhdhida wodiyawu laamettiyo wode naa''u peeshotuppekka issi e pitalee giddwappe xayichchiis. I xayido ogee cenggurssaa xinaatiyaa hanotaa kaallidi gidenna woykko qoncce gidenna ogiyan xayiis giyoogaa.Yaatiyo gishshawuweep giyo Ingglize qaalay aadhdhida wodiyawu laamettiyoyseeraa hanotaana giyyoogaa. Hegaadankka leemisuwaa Cn de'iyaa shake’nne ‘take’ giyo qaalati aadhdhida wodiyawu lamettiyoy cenggurssaa xinaatiyaa hanotern gidennan de'ishin seeraa hanotaana 
+
+Meeziyaa:
+Ha qommoora nuuni be'doogaa maaran, neessi injjetiyaa doonaa augaappenne amarida leemiso gidiya qaalata ekkada seeraa hanotaa/grammatically conditioned/ qonccissa. Hegaappe simmada he seeraa hanotaabaa paatettaa xaafa.
+……………………………………………………………………………………………………………………..
+Hara hanotay qassi allomorpheti ano qaalaa hanotan /lexically conditioned/ doorettoosona . Hega giyoogee allomorphiyaa go'ettanuw iss imettida qaalay bayira beeraa besses giyoogaa.
+Nuuni kase be'idoogaadan coratettaa bessiyaa Ingglize gundulay cenggurssaa xinatiyaa hanotan qonccida woykko doorettida allomorphetun qonccees. 
+Meeziyaa:
+A.	Issi sunttay diddina woykko mino gaaginaa usttatun wurikko / -Iz/ giyo allomorphiyaa doora go'etta. He guttumati ( S z S 3 tS  d3) malatiyaageeta
+Kaallidi ha qommoora qonccida qofaassi leemisuwaaay doonaappenne immidinne paattidi qonccissite
+																						
+  Zaaruwaa:
+asses                        mazes              fishes            beaches
+/æsIz/                  / meIzIz/            /fI? Iz/              /bi: t?Iz/
+B.	Issi sunttay p,t,k,f,?….giyaa giirenna pitaletun wurikko /-s/ giyo allomorphiyaa doora woykko go'etta. 
+Leemissuwaa:
+Cups                          leeks            carts                moths
+/k^ ps/             /  li:ks/           /ka:ts/             / mo?s/ 
+
+c.issi suntay giiriyaa guttumatu wurikko ( b,d,g,m,n,?, l, r,w,j) /-z / giyaa allomorphiyaa doora. Hagaan usttatikka gujettoosona.
+Leemisuwaa
+
+mugs                         rooms           keys              shoes
+/m^gz/                        / ru;mz/           /ki;z/             / ?u:z/ 
+Ha nuuni hanno gakkanashin be'ido paatetta qofatinne leemisoti ubbay allomorphetu dooroy cenggurssaa xinaatiyaa hanotan gidiyoogaa akeeketa gaada qoppays. Hegee hegaa gidoshin, ane “ox” giyaa inglize qaalay corayanawu koyiyo wode waani xaafeti? Woykko ayssi ‘ oxes’ geetettidi xaafettenne? Paattidi naa''u luukiyan/ woraqatan xaafite?
+
+											
+Qommoora imettida oyshaa zaaranawu intte malidaba gidikko intte malay manggettenna gaada hidootys . Hegee ayssi giikko ha qommoora nuuin be'ido cenggurssaa xinaatiyaa hanotaa /phonological conditioning/ gidin seeraa hanotaykka /grammatical conditioning/ hanna gaaso giyobi erettennan de'ishin  ha guddulaa qonccissanwu danddayennan ixxi aggees. ‘ox’ giyaa Inglizee qaalay corayanawu xaafiyo wode ‘ oxes’ giidi xaafettenna ‘oxen’ giidi xaafettees. Ha ‘ox’ giyaa qaalaara issi mala eeshshay de'iyo qaalati hagaadan hananwu danddayees nuuni giyo /Iz/ giyo coratettaa allomorfiyaa ekkiyo wode( /foksIs) foxes nne /boksIZ/ boxes ) geetettees. Ha  
+‘ox’ giyaa qaalay ixxis giidi gaxan eqqeess. Yaatiyo gishshawu doonaa pilgganchchati hegaa ano qaalaa hanotaa( lexically conditioned) goosona.
+Hagaa xeelliyaagaan citan to bbidi xadeera imettida sohuwan intte kuushaa qofaa xaafite.
+																										
+ 
+
+
+NAA''ANTT SHEMPPUWAA
+2.1. GUNDDULA QOMMOTA 
+2.1.1.  Kaniyaa somiyaa, anuwaanne techchaa/root, affix, stem and base/
+Aadhdhida shemppuwan qaalatuyo eti dumma dumma xekkan perettanawu danddayiyo garssa shaahoy de'ees giyaagaa be'ida. Ha shemppuwan qassi keehi ciimma gidida qaalaa medhdhiyo yohota ha nuuni kase giido garssa shaahota bessiyaagaa be'ana. Koyrottidikaniyaanne somiyaa be'ana
+2.1.1.1.  Kaniyaa
+Kaniyaa giyoogee haranttuwaa shahettanwu danddayenna waanna woykko kane qaalaa. Ha qaalaa bolli aybinne somettibeennaagaa giyoogaa. Ano qaalaa qonccissiyaa qonccetati beettiyo wode ubbatookka kenee xayennan beettees. Leemisuwaassi, hemeta giyaa qaalay kane qaalaa gididi ano qaalaa (HEMETA) qonccissiyaa leemisotuura ubbatoobeettees. Hegeetikka, hemeta, hemettees, hemettiidi de'eesnne hemettiis giyaageeta. 
+Daro qaalati kaniyaa oykkoosona. He kaneebarkka eqqanawu danddayees. Barkka eqqanawu danddayiyaakaneti la'a gunddulata geetettoosona. Kaallidi de'iyaa leemisuwaa akeeka.
+La'a gundulata
+Asa, maxaafa, keehi, tukke, mal''o, saho, hemeta.
+Ha qommoora qonccidaageetu mala selle qaalati ubbaappe guuxiyaa la'a gunddulata gididi banttarkka eqqanawu danddayiyaageeta. 
+Ha nuuni qommoora be'ido la'a gunddulati qaala gunddulata /lexical morphemes/. Hegeeti sunttaa, sunqquwaa, peeshuwaa, peesho zemppuwaa malatiyaageeta. Hageeti haasayaassi kulkkatiyaa birshshettaa oykkiyaageeta. Hegaa giyoogeenne leemisuwaaassi sunttataXoona, aayyiyo, sunqqota keha, gooba; peeshota shochcha, shemppo, xaafo; peesho zemppota ashkketettan, kehatettan h.h.m.
+Harati keehin daro la'a gunddulati haggaazo qaalata/function words/.Hageeti  qalaa gunddalatuppe dummatiyoy, qaala gunddulati haasaya brishshettawu kulkkatiyaa sohuwaa oykkiyaageeta gidiyo wode haggaazo qaalati/ function words) qaala gunddulatiaattiyo kiitay seeraa/grammar/ hanotaara maayettidi qoppido kiita qofettido ogiyaan aattanauw maaddiy- aageeta. Haggaazo qaalata giyoogeeti kaalliyaageetu malaa oykkiyaageeta.
+Haggaazo qaalata/function words/
+matahota      hagaa, hegaa, hageeta, hegeeta
+Sunttasota     ta/taani, nelneeni, nu/nuuni, eti eta,
+taagaa, neegaa, aagaa, iigaa, ooni, ooga awugaa, ooni h.h.m
+Gatuwaa   -nne-,  kko, shin, woykko, gidoppeattin h.h.m
+Qaala gunddulatanne seera dunddullata dummayiyoogee maaddiyaabanne qassikka metennaba.
+
+2.1.1.2.  Somiyaa
+Some giyoogee hara gunddula woykko gunddulata bolli somettiyaagaa. Some giyoobay barkka eqqennaagaa  woykko haraa bolli somettiyaagaa giyoogaa. Ay qaalikka barkka eqqiyaa somiyaa oykkanauw danddayenna. Lemisuwaassi, -ta, -tees, -tetta h.h.m.
+2.1.1.3.  Anuwaanne techchaa
+Ano  giyoogee aybanne some giyoobi gujetti beenna duucha qaalaa giyoogaa. Leemisuwaassi, sunttaa corayiyaa someti, wodiyaa qonccissiyaa someti peeshuwaa bolli gujettiyoogaa giyoogaa.
+Leemisuwaa
+Sunttaa anuwaa  corayiyo wode
+garawa                                            Garawa –ta
+oosanchcha                                    oosanchcha –ta 
+Techchaa giyoogee bari bolli hara somiyaa ekkanawu woykko somissanawu danddayiyaa ay qaalaakka giyoogaa.
+Leemisuwaassi,mehe, giyaa qaalaa bolli-ta giyaa somiyaa gujjikko meheta kiyees.Yaatiyo gishshauwmehegiyaa qaalaay, techcha giyoogaa. Qassikke mehetettagiyaa qaalaan -te nne    -tta giyaa someti gujettidosona.
+2.2.  Mero gunddulatanne Gujo gunddulata ( derivational and Inflectional morpheme) 
+Kasetidi nuuni be'anawu malidoogaadan, some gunddulati naa'u baaso gidiyaa huuphe yohotun shaahettoosona . Hegeetikka mero gunddulatannegujo gunddulata. Hagee qonccissiyoogee naa'u erettida qaalaa medhdhiyo ogeta woykko hanotata: hegeeta gujonnemero giidi xeesanawu danddayettees.
+Dariyaa bagga qaalaa meruwaa erenchchati (morophologists)ha naa'u shaahotun maayettoosona. Kaallidi ha shaahotu maaduwaabaa be'ana.
+ Gujo gunddulatinne mero gundullati dumma dumma ogiyaan qaalata medhdhoosona. Mero gunddulati naa'u ogetun ooratta qaalaa medhdhoosona.
+i. Mero gunddulati somettido techcha qaalaa birshshettaa laammoosona
+Leemisuwassi,
+Ment-, giyo qaalaa booli -erett- giyo some gunddulaa somiyo wode ment -erett- giyaagaa demmettees. ment-giyaa qaalay issbaa issito  menttiyoogaa odiyaagaa gidiyo wode ment-erett- giyaagee qassi issibaa zaaretti zaarettidi menttiyoogaa qonccissees. Yaatiyo gishshauw 
+naa''u qaalatikka immiyo birshshettay dumma dumma . Issoy issito menttiyoogaa hankkoy qassi corato menttiyoogaa. 
+ii) Etigujettido techcha qaalaasi qaala kifiliyaa laammoosona.
+Leemisuwassi, geeshsha giyaa qaalaa bolli-tetta giyaa somiyaa somiyo wode geashsha-tettagiyaa qaalaa demmettees. geeshsha giyaa qaalay sunqqo gidiyo wode geeshsha-tetta giyaa qaalay qossi suntta gidees. 
+Meeziyaa
+Ha qommoora nuuni be'ido naa'' qofatun keten''id: 
+A.	Mero gunddulati somettin birshshettaa laammiyaa tammu qaalata dooridi paattidi qonccissite. 
+1.													
+2.													
+3.													
+4.													
+5.													
+6.													
+7.													
+8.													
+9.													
+B.	Mero gunddulati gujettin qaala kifiliyaa laammiyaa tammu qaalata dooridi paattidi qonccissite. 
+1.													
+2.													
+3.													
+4.													
+
+5.													
+6.													
+7.													
+8.													
+
+
+Issito issito mero gunddulati somettiyo wode teccha qaalaa kifiliyaa hara qaala kifiliyawu laammidi bayra seera/ graameriyaa/ dummatettaa bessoosona. Leemisuwaassi gitagiyaa sunqqo qaalay -tett  giyaa somiyaa somiyo wode sunqqo gidiyoogaa aggidi suntta gidees.  Hara wode qassi ha mero gunddulati ehiyo laamee keehin lefa gidees. Leemisuwaassi qommoora nuuni be'idoogaattuwaa ment-giyaagaa bolli-erett-giyaagaa somiyo wode de'iyaa laamee qaala kifiliyaa laammiyaagaa gidennan de'ishin issito poliyoogaappe hebaa zaaretti zaaretti poliyoogaa bessees. Hanno gakkanawu nuuni be'idobata kuuyanawu, mero someti ooratta ano qaalaa/exeme/naa''u ogiyaan medhdhiyoogaa be'ida.
+i).Eti somettiyo techcha qaalaa birshshettaa laammiyaagaan. 
+Hegaa giyoogee he qaalaassi seeraa eeshshaa woykko qaala kifiliyaa laammennan, leemisuwaassi ( qommoora nuuni be'ido ment- giyaa techcha qaalaa bolli -erett- giyaa gunddulaa somiyo wode ment-erett-giyaa hara techcha qaalaa demmettees. ment-giyaa techcha qaalay issiba issito menttiyoogaa yootiyaagaa gidishin, ment-erett-giyaa qaalay qassi issibaa chorato woykko zaaretti zaaretti menttiyoogaa qonccissees).
+ii).Mero gunddulati somettiyo techcha qaalaassi qaala kiffliyaa laammoosona; 
+birshshettaakka laammoosona. 
+Kasettidi nuuni be'idoogaadankka, leemisuwaassi, keha giyaa sunqqo qaalay-tetta giyaa somiyaa gujjiyo wode kehatetta giyaa suntta qaala gidees. 
+Ane ha qommoora be'ido paatetta qofaa oykkidi kaalliyaa leemisota akeekite. Yaatidi qaassi kaalliyaa meeziyaa buzo woykko citan zaarite. 
+Meeziyaa
+Techchaa  Ooratta qaalaa
+worddo                                                worddo-tetta
+gita                                                       gita- tetta
+mata                                                      mata-tetta
+shiishsha                                              shiish-eretta
+qanxx                                                    qanxx-eretta
+mintt                                                      mint –etta
+dentt                                                       dent-etta
+
+Hayyanita tamaareto ha qommoora imettida techca qaalaanne qassiappe merettida ooratta qaalaa wozanappe akeekidi kaalliyaa oyshaa zaarite.
+1.	-tetta woykko-eretta giyaa someti somettido techcha qaalaa kifilee( sunttakko, sunqqokko,peeshokko) aybakko qonccissa.Kaallada qassi gujo qofaa imma.
+
+Techcha qaalaaqaala kifiliyaa
+										
+										
+																										
+2.	Techcha qaalaa bolli somee somettidi immiyo ooratta qaalaa kifilee aybakko qonccissa.
+
+Orattaa qaalaaqaala kifiliyaa
+										
+																										
+	
+3.	Teccha qaalatun sometttida sometu(-tetta,-eretta, -etta) birshshettay woygiyoogaakko qonccissa. Laappun sometuyokka birshshetta dumma dumma xaafa.
+            Someta                                                                                    Eta   birshshetta
+										
+										
+
+2.1.1.4. Gujo gunddulata
+Ane ha'i qassi gujo gunddulatukko simooms. Qommoora nuuni mero gunddulatun be' idoogaadan gujo gunddulati birshshetta dummatetta ehookkona. Mero gunddulata nuuni kasettidi be'idoogaadan leemisuwaassi mees giyaa qaalaa bolli-nna giyaa qaalaa demmoos. Hegee haniyo wode ha ooratta qaalay koyro qaalappe dumma birshshettaa immees.Mees giyo qaalay issibaa polees giyo birshettaa gidishin meenna giyaagee qassi isibaa polennagiyaa birshshettaa immees. Gujo gunddulata somiyoogee hegaa mala dummatettaa eheenna. Qassssikka, mero gunddulati bantta somettido techcha qaalassi qaala kifiliyaa laammokkona. Yaatinha gujo someti oottiyoobay aybee giyaa oyshaassi zaaroy, gujo someti bantta somettido qaalaa molidi he qaalati waaxettido seeraara mayettana mala oottoosona giyaagaa. Leemisuwaassi, maxaafa giyaa qaalaynne maxaafa-ta  giyaa qaalay naa''aykka sunttaa qonccissiyaageeta.Naa''aykka qassi maxaafaaba yootiyaageeta.Ha maxaafa giyo qaalippe kaallidi somettida –ta giyo somee he maxaafaa qoodaa woykko payduwaa yootiyagaa. Doonaa seeraa maaran coratettaa odiyaabay nuuni issuwaappe dariyaabaa haasayanawu koyiyo wode maaddiyaagaa. Yaatiyo gishshauw, tummu maxaafata giidi xeegettees. Tamma giyo qaalay he tamma geetettiyaa bay issuwaappe daro gidiyoogaa qonccissiyaagaa gidikkonne "tammu maxafaa" giyoogee seeraara maayettenna.
+
+HEEZZANTTO SHEMPPUWAA
+3. 1. WOLAYTTA GUNDDULAA
+3.1. 1.  Sunttaa
+Wolaytta doonaa sunttati bessiyo eeshshay kuushe doonaa eeshshaara misatettees. Kuushe doonay suntaa medhdhanauw kaalliyo pitaletu ziiree woykko doorettay G1 U1 G2 U 2,giyaagaa. HagaanG nne Uguttamanne ustta wokkaaloosana. Hegaadankka qassi wolaytta doonay sunttaa medhdhiyo pitaletu ziiriya hanotay   G1 U1 G2 U2,.Wolaytta doonaa seeraa maaran G1giyoogee gilootaaliyaa cenggurssakka oykkiyaagaa (Lambberttanne Soottilla 1997 (paranjja Qoodan)  U1 roy qantta ustta woykko adussa ustta gidanawu danddayees .G2qassi lefa woykkomino guttuma gidanawu danddayees.U2 ttay go'ettiyo qaalaa hanotaatto qantta woykko adussa gidanawu danddayees. 
+Ha qommoora qonccissido wolayttatto sunttaa medhdhiyo pitaletu ziiree dumma dumma ogiyaan qonccanauw danddayees.
+A.	GUGU 
+kana
+puxa
+na'a
+bisa
+cuwa
+'awa
+B.	GUG:U
+matta
+qamma
+bagga
+mashsha
+shuchcha
+shophpha
+
+C.	GU:GU
+doona
+buura
+'aawa
+shaafa
+heera
+beeta
+D.	GU:G:U
+buuchcha
+'aakka
+xoossa
+ciishsha
+yeella
+cuuchcha
+Ha qommoora be'idoogeetuppe haray qassi siise guttumata kaallidi yiyaa guttamay minniyoogan beettiyaa pitetu ziiriyaa. Hegeekka kaalliyaagaadan xaafettees. GUG1,G2:Ugidees.Hagaan (G2) giyo  guttumaysiise guttuma gidees.
+danqqo
+shemppo
+bangga
+gistte
+malddo
+galbba
+'ankko
+Ha qommoora shiiqidaageeti  leemiso qaala gidanawu danddayoosona. 
+MEEZZIYAA 
+ Ha nuuni qommoora be'ido ichchasu sunttaa medhdhiyo pitaletu ziiriyan qonccidoogaa maaran he qonccida leemiso qaalatuppe haraa tammu tammu qaalaa giigissidi ichchashu qommo sunttaa medhdhiyo pitaletu ziiretussika xaafite.
+A.	GUGU  
+
+_________________________________________________________________________________________
+
+B.	GUG:U
+_________________________________________________________________________________________
+
+
+C.	GU:GU
+
+__________________________________________________________¬¬__
+D.	GU:G:U
+___________________________________________________________
+
+
+
+___________________________________________________________________
+
+
+____________________________________________________________
+____________________________________________________________
+
+
+____________________________________________________________
+
+
+ 
+E.	GUG1G2:U
+_________________________________             _________________________________
+_________________________________             _________________________________
+__________________________________            ________________________________
+__________________________________           ________________________________
+
+3.1.2. Dumma dumma Someta
+Wolayttattuwan dumma dumma sometiya macarati de'oosona. Ane hegeeta kaallidi aahuwan be'ana. Hegeetuppu amaridaageeti -a, -uwa, -iya. Hageeti peeshuwappe sunttaa medhdhiyaaggeeta woykko eti peeshuwaa bolli somettiyo wode he peeshoy sunttawu laamettees giyoogaa. Hegeetuppe -anne-uwa peeshuwaa bolli somin merettiyaa sunttati sheefa / abstruct / nne/ woykko/ cuucumettiyaa mishshaa/ concrete objects / qonccissiyaageeta. 
+
+Leemisuwaa:
+A.	Cuucumettiyaa miishshata qonccissiyaageeta 
+woxx-                                      woxx-a
+took-                                   took-a
+cuchch-                               cuchch-a
+maay-                                    maay-uwa
+
+B.	Sheefa qofata qonccissiyaageeta. 
+haasay-                                      haasay-a
+er-                                                er-a
+labban-                                      labban-a
+bit-                                               bit-a
+'od-                               'od-uwa
+payd-                                          payd-uwa
+de'-                                            de'-uwa
+Hayqq-                                       hayqq-uwa
+Yeekk-                                       yeek-uwa/yeeh-uwa
+
+C.	-iyo giya some sunttaa bolli somettidi hara sunttaa medhdhees. He merettiya sunttay de'uwan de'yaanne mattuman macca gidiya suntta gidees. Ha qofaassi leemiso gidiya qaalata ane kaallidi be'oos. 
+
+na'-a                                 na'-iyo
+'aaw-a                                   'aayy-iyo
+boll- uwa                          bollot-iyo
+daann-a                              daann-iyo
+boganchch-a                        boganchch-iyo
+imatt-a                         imatt-iyo
+com-a      cim-iyo
+duud-iya                               duud-iya
+buqul-uwa                            baqul-iyo
+dorss-a                                  dorss-iyo
+deeshsh-a                            deeshsh-iyo h.h.m.
+D.	-iya giya someti qassi gartte qaalata wolayttatto eeshshaa mayzzanawu go'oosona. 
+ 
+Wolayttatto 
+
+baldd-iya
+barbbar-iya
+buttull-iya
+dawal-iya
+paanoss-iya
+alam-iya
+Garxxettidosaanne qaalaa birshshettaa
+Amaarattuwappe ------------------ balddi
+Amaarattuwappe -------------- berbberre
+Xaaliyappe ---------------------- buttillia
+Amaarattuwappe -------------- däwäl
+Amaarattuwappe----------  fanos
+Amaarattuwappe-----------  aläm 
+
+Ha somee Wolayttattuwan hara ogetunkka harabata qonccissiddi beettees. Leemisuwaassi , hariya, kariya ,mehiya…..
+Meeziyaa
+Hagaappe kaallidi de'iya sohuwan tammu gartte qaalata xaafada eti garxxettido doonaa qonccissa. Wolayttattuwawu waani laamettidaakkokka bessa.
+1.	__________________________________________________________________________
+2.	__________________________________________________________________________
+3.	__________________________________________________________________________
+4.	__________________________________________________________________________
+5.	__________________________________________________________________________
+6.	__________________________________________________________________________
+7.	__________________________________________________________________________
+8.	__________________________________________________________________________
+
+Tamaareto, ane qassi kaallidi kuushe doonappe xuuqqidi wolayttattuwankka beettiya -ttanne-ta geetettiya naa'u someta be'oos. Ha someti ha saatiyan kuushe doonan beni eti selliyaa malaatiyoogaa aggidi ha'i coo issi qaalaappe hara qaalaa medhdiyaa somedan maaddoosonashin Wolayttattuwan ha'ikka selletettaa qonccissiyaa some gididi qonccoosona. Ane kaallidi imettida leemisuwa wozanappe akeekidi xeellite.
+gulbba-ta
+cima -ta
+kal''a-ta
+lagge-ta
+sawo-ta
+angga-ta
+
+
+-tta
+wrsse-tta
+zaare-tta
+ima-tta
+bii-tta
+gi-tta
+haa-tta
+masun-tta
+de'e-tta
+mee-tta
+gee-tta
+uee-tta    h.h.m.
+-te-tta giya somee sheefa sunttata medhdhanawu maaddees. Ane leemiso qaalata kaallidi be'ana. 
+eeyya-te-tta
+kawo-te-tta
+ashkke-te-tta
+gooba-te-tta
+mino-te-tta
+laafa-te-tta
+daanna-te-tta
+iita-te-tta
+lo'o-te-tta
+keha-te-tta
+dere-te-tta
+haaho-te-tta
+mata-te-tta
+yelaga-te-tta
+cima-te-tta
+botta-te-tta
+adussa-te-tta
+qantta-te-tta
+michcho-tetta
+isha-te-tta
+Harantto some Wolayttattuwan corato beettiyaagee -ssa somiyowode ha somettiya somiyappe sinttatidi de'iyaa usttati aduqqoosona. Leemisuwassi,
+m-uu-ssa
+b-uu-ssa
+y-uu-ssa
+g-uu-ssa
+Ane hagaa de'u-ssa giyanne hara hegaa malatiya  qaalata koyada yigga woykko geeddarssa. Hewodiyan neeni ha-ssa giya some issi pitalee peesho gidiyo qaalatun somettiyo wode appe kasettidi woykko ha peesho gidiya issi pitaliya kaallidi yiya usttay aduqqidi xaafettiyoogaa woykko xeesettiyoogaa siree baynnan akeekanawu danddayaasa.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Wolayttattuwan -anchcha giya somee sheefasunttan somettidi hara sheefa sunttaa immees. 
+Leemisuwaa:
+'er-anchcha
+bog-anchcha
+word-anchcha
+oos-anchcha
+goshsh-anchcha
+yoh-anchcha
+ushsh-anchcha
+daafur-anchcha
+hargg-anchcha h.h.m. 
+Gidoppeattin, ha -anchcha giya somettay -an - - - chcha giya naa''u some kiyanawu danddayees.               Ha -anchcha giya nuhettida some kuushe qaalan sellettettaa bessiyaagaashin wolayttattuwan he eeshshaa bessenna (Lambbertta nne Sottilla 1997:59 (paranjjatto qoodan)). Ha some ha''i haaseyettiya Wolayttattuwan nuuni qommoora be'idoogaadan sunttaa penqquwawu laammiyoogaa xalleeA oosoy giyo wode, ee gaanawukka chii gaanawukka danddayettenna. Ayssi giikko Wolayttattuwan –chcha giya somiyan wuriya cora Sunttati de'oosona shin ha somee techcha qaalan attiyye woykko barkka some gididi dummati giyaagee eqqi ekkidi qoppiyooba. Hagaa ane kaalliyaa leemisotun akeekoos.
+ushachcha
+shuchcha
+buuchcha
+gaachcha
+baachcha
+duuchcha
+goochcha
+diichcha
+Meeziyaa:
+Ha nuuni qommoora be'ido -anchcha giya somiyanne -chcha giyaagaa giddon diya dummatettaanne issippetettaa naqaashaa shiishshadanne leemisuwaa bessada naa''umenttuwa gidiya qofan qonccissa.
+____________________________________________________________________________________________________________________________________________________________
+Ha sometubaa xeelliyaagaan issibaa be'idi ha'issuw hagaan essishshana. Aawa giyo ano qaalaa(root) hara sunttaa qonccissiyaa qaalaa bolli somiyo wode he somettidi beettiyaa qaalay issi uray issibaassi aawatiyoogaa woykko gadattiyoogaa bessees woykko qonccissees.
+Ane leemiso qaalata akeekada nabbaba
+keett- aawa
+gad  - aawa
+shankk - aawa
+shooro- aawa
+wogg- aawa
+wogg- aayyiyo
+keett-aayyiyo 
+miishsh- aawa
+meh- aawa
+zaw- aawa
+na'-aawa
+naat-aawa h.h.m
+
+3.1.3 sunttaa macarata
+Qommoora nuuni be'idoogaadan,wolayttatto sunttati eti wurssettan ekkiyo sometu hanotan yiggiyo wode oyddu gita macaratun shaahettoosona. Ha macaratushaahoy hagaa woykko hegaa gaanawu qoncce/boxooxa/ naqaashay de'ees. Qaalaa wurssettan de'iya siilabiyan wurssetta ustta cenggurssay eqa( high tone ) gidikkonne he qaalay -an wurikko hegaa oyddu sunttaa macaratuppe  koyruwaa gaanawu danddayeettees. Kaalliyaa leemisota akeeka.
+'asa
+xuma
+gubbata
+dorssa
+mettershsha
+shuchcha
+quma
+shankkaawa
+'aawaa
+na'a
+masuntta
+eeyyatetta
+xeessa
+udula
+saamintta
+laappuntta
+Pudetta
+awa
+sa'a
+kana
+cala
+para
+keetta
+tama
+Naa''antto sunttaa macara geetettiyaageeti qassi -iyaa giyaagan wuriyaa sunttata gidishin ha-iyaa giya somiyappe guyyeera de'iyaa guttumay woykko techcha qaalaa wurssetta pitalee yerettidi nabbabettees. Kalliyaa leemiso qaalati hegaa boxooxissidi qonccissoosona.
+bitaniyaa
+kushiyaa
+qooriyaa
+hariyaa
+ayfiyaa
+gediyaa
+maahiyaa
+zariyaa
+ogiyaa
+xadiyaa h.h.m gidishin gartte qaalati Wolayttattuwaa eeshshaa ekkanawu ha-iyaa giyaa somiyaa ekkiyoogaa kase nuuni be'idi kanttidoogaa hassayeeta gaada qoppays . 
+Heezzantto  sunttaa macaray awugee giikko -uwaa giyaa wuressataa ekkiyaagaa. Leemiso qaalaa be'anawu koshshikko kaallidi qoncciis.
+oduwaa
+metuwaa
+saamuwaa
+poo'uwaa
+puuttuwaa
+baquluwaa
+ashuwaa
+geluwaa
+ekuwaa
+ulwaa
+aysuwaa
+de'uwaa
+oosuwaa
+baasuwaa
+dashuwaa
+Qommora nuuni be'ido heezzu sunttaa macarati merettiyo hanotay qoncce gidikkonne qassikka issoy hankkuwappe dommatiyoogaa shaakkanawu metennaagaa gidikkonne heezzu qaalatu macaratika birshshettaa hanotan xelliyo wode waani dummatiyoona giidi yiggiyo wode, eti qonccissiyoy ayba suntte( leemisuwaassi,awugee sheefa sunttaa qonccissii awugee qassi cucumettiyaa suntta qonccissii giyaa ayshawu zaaroy de'iyaaba malatenna. Gidoppe attin, kaalliyanne oyddantto sunttaa macaray -iyo giya somiyaa somin merettiyaagaa gididi birshshetta baggaarakka xeelliyo wode de'uwan de'iyanne mattuman macca gidiyaa sunttata qonccissees. Kaallidi de'iyaa leemisuwaa akeeka.
+na'iyo
+aayyiyo
+bollotiyo
+baquliyo
+miizziyo
+deeshshiyo
+dorssiyo
+mishiriyo
+imattiyo
+laggiyo
+cimiyo
+dottoriyo
+asttamaariyo
+tamaariyo
+gawariyo
+kafiyo
+kuttiyo
+genessiyo
+geela'iyo
+Meeziyaa:
+Ha nuuni qommoora be'ido oyddu sunttatu macarata qonccissiya oyddu ouddu leemiso qaalata issuwassi issuwassi kaallidi imetttida sohuwan xaafa.
+1ro sunttaa macaraa
+Leemisota
+1.					
+2.					
+3.					
+4.					
+2ntto sunttaa macaraa
+Leemisota
+1.					
+2.					
+3.					
+4.					
+
+3ntto sunttaa macaraa
+Leemisota
+1.					
+2.					
+3.					
+4.					
+4ntto sunttaa macaraa
+Leemisota
+1.						
+2.						
+3.						
+4.						
+
+Ha intte qommoora qonccissido sunttatu macaraa qonccissiya leemiso qaalati issoy issouwappe aybin dummatiyakkonne qassikka aybin misatiyakko xadeera imettidi sohuwan paattada qonccissite.	
+														
+3.2.mattumaa
+Wolayttattuwaassi naa''u dumma dumma mattumati de'oosona. Hegeetikka, maccanne attuma geetettoosona. Maccaynne attumay shaahettiyoy sunttaa woykko qaalaa wurssettan eti ekkiyo somiyan woykko pitaliyan shaahettees woykko erettees.
+Leemisuwaassi, ha-gee(attuma)             ha-nna(macca)
+taa-gaa (attuma)             taa-ro (macca)
+Ha qommoora qonccida leemisotuppe be'anauw danddayettiyoogaadan hagee giyaageenne hagaagiyaagee mattuman attuma gidoogaa Wolayttattuwan doona dooyida asi eranauw metootenna . Hankkooti qassi hanna giyaageenne taaro giyaageeti mattuman macca gidoogaa wolayttattuwaa luxida uri oonne eranawu danddayiyooba. Ha nuuni qommoora be'ido qofay mattumaa doona seeraa woykko graameriya hanotan xeelliyo wode be'iyo ogiyaa
+Wolyttattoy hara ogiyankka mattumaa qonccissiyo hanotay de'ees. Hegeekka Wolayttattoy de'uwaan de'iyaabaa mattuma qoncciyan bessidi he haasayiyobay attuma woykko macca gidoogaa akeekisseess. Hagee hanana danddayiyoy macca woykko attuma giyaa qaalaa he nuuin haassayana koyiyoobaappe guyye baggaara go'ettiina. Ane kaallidi de'iyaa leemisuwaa be'oos.
+dorssa                              attuma dorssaa
+dorssaaa                          macca dorssaa
+asa                                     attuma asa
+asa                                       macca asa
+na'a                                 attuma na'a
+na'a                                macca na'a
+Leemisituppe nuuni be'idoogaadan, dorssa, asa, na'a . . .  giyaa sunttati mattumaa muumman qonccissoosona issi uri ba haasayanawu koydobay macca gidikko ha sunttatuppe guyyeera macca giyaa qaalaa hegaadankka haasayanawu koydobay attuma gidikko attuma giyaa qaalaa he izaawu qonccissanawu koydobaappe guyye baggaara go'ettanawu koshshees.
+3.3. Payduwaa
+Wolayttattuwaan naa''u dumma dumma paydoti de'oosona. Hegeetikka sellenne cora geetettoosna. Selle paydoy issi qaalay issi sunttaa qonccisanawu geliyoogaadan qonccees. Gidoppeattin, cora paydoy ha coratettaa qonccissaanawu somettiyaa somiyaan qonccees.
+Wolayttattoy coratettaa sunttaa bolli qonccissanawu -tu giyaa somiyaa woykko gunddulaa go'ettees. Hegaan U usttaa qonccissees. He usttay qaalaa wurssettan geliyaagaa gididi he qaalaa hanotaatuwaa laamettanawu danddayees. Sunttay keettaawa gidiyo wode ceratettaa qonccissiyaa somee -ta gidees. Ha somiyaa go'ettidi coratettaa medhdhiyaa Wolaytta sunttati kalliyaageeta malatoosona.
+asa                                  asa –ta
+achcha                         achcha –ta
+boora                              boora –ta
+xantta                            xantta –ta
+keetta                            keetta-ta
+mitta                               mitta-ta      
+menttershsha                 menttershsha -ta
+dorssa                              dorssa -ta        
+para                                    para -ta
+mara                                   mara-ta  
+kana                                    kana -ta                  
+kaltta                                  kaltta –ta
+kaallidi ane –iyaa giyaa somiyaa ekkiyaa sunttati coratettawu laamettiyo ogiyaa be'oos.
+Hariyaa                                  hare-ta
+Orggiyaa                               orgget
+ Hhuuphphiyaa                   huuphe-ta
+ Gediyaa                               gede –ta
+Bitaniyaa			 bitane -ta							
+Laggiyaa                               lagge-ta
+
+biiriyaa                              biire-ta
+suriyaa                            sure-ta
+qoliyaa                             qole -ta
+ogiyaa                              oge -ta
+gadiyaa                            gade-ta
+dulliyaa                             dulle-ta
+somiyaa                            some-ta
+suufiyaa                            suufe-ta
+udunxxiyaa                       undunxxe-ta
+zariyaa                                zare-ta
+zaafiyaa                             zaafe-ta
+
+Meeziyaa
+-iyaa giyaa somiyaa ekkidi xaafettiyaa tammu sunttata ha nuuni qommoora be'idoogeetuppe harata xaafada eti carattiyo hanotaa beessa.
+
+1.																								
+2.													
+3.													
+4.													
+5.													
+6.													
+7.													
+8.													
+3.4. –uwaa giyaa somiyaa ekkidi xaafettiyaa sunttati corattiyo hanotaa 
+oduwaa                                odo-ta
+gacinuwaa                            gacino-ta
+wordduwaaa                     worddo-ta
+bazzuwaa bazzo –ta
+mootuwaa	mooto -ta							
+shemppuwaa                     shemppo -ta
+shooruwaashooro-ta
+oosuwaa                         ooso-ta
+maayuwaa                      maayo -ta
+saamuwaa                      saamo -ta
+gaammuwaa                   gaammo-ta
+gaasuwaa                         gaaso-ta
+haluwaa                           halo-ta
+soruwaa                           soro-ta
+duufuwaa                       duufo-ta
+boohuwaa                        booho-ta
+zokkuwaa                          zokko-ta
+koluwaa                             kolo -ta
+moohuwaa                      mooho-ta
+amuwaa                            amo-ta
+hookkuwaa                      hooko-ta
+aafuwaa                            aafo-ta
+toohuwaa                          tooho-ta
+coorwaa                            cooto-ta
+ogoruwaa                        ogoro-ta
+3.5. –iyo giyaa somiyaa ekkiyaa sunttati corattiyo ogiyaa
+Nuuni qommoora mattuman be'idoogaadan –iyo giyaa some macca mattumaa qonccissiyaagaa. Gidoppe attin ha sunttay coratettawu laamettiyo wode mattumay bay aggees. Hegaa giyoogee mattumay maccakko attumakko erissenna giyoogaa. Ane kaallidi de'iyaa leemisota akeeka
+imattiyo imattat-ta
+boganchchiyo                   boganchcha-ta
+laggiyo                           lagge-ta
+duudiyo                        duude-ta
+hariyo                            hare-ta
+miizziyo                        miizza-ta
+mariyo                       mara-ta
+na'iyaonaat-ta
+kuttiyo                      kutto –ta
+baquliyo                    baqulo-ta
+kafiyo                        kafo-ta
+Ha qommoora qonccida leemisotun koyruwan qonccida sunttati woykko qaalati mattuman macca gidiyoogee boxooxa qoncce . Gidikkonne ha boxooxa qoncce gidiyaa macca mattumaa qonccissiyaa qaalata coratettawu laammiyo wode he cora gidida qaalaa woykko sunttaa mattumay maccakko attumakko erettenna. Nuuni imattiyo giyo wode macca imattiyo giyoogee qoncce gidikkonne he qaalaa coratettauw laamiyowode imattata giyagee ha nuuni imattiyo giido macca mattumappe yiidaagaa gidennyyee? Yaatiyo gishshawu macca imattata qonccissees gaanawu mulekka danddayttenna.
+
+Ha qofaa kuuyanaappe kasetidi issibaa wozanappe akeekanawu bessees. Ha coratettaa malaatiyaa some (-ta) seelle sunttaa coratettawu laammiyo wode he laamettiyaa woykko corayiyo sunttay kaalliyaagaa( object form) gidees.
+Hara guussan keettaawa gidenna giyoogaa. Cora sunttay issi qoofa qashuwan keettaawadan gelikko coratettaa some-ta gidiyoogaa aggidi –ti gisees.
+Leemisuwaa: aaway naata dosees. 
+Ha qommoora nuuni be'ido qofa qashuwan aawaygiyaa qaalay keettaawa gidiyo wode naata giyaa qaalay qassi kaalliyaaga. Yaatiyo gishshawu, coratettaa medhdhiyaa some –ta giyoogee  kaalliyaagaa gidees giyoogee hegaassa. Ane leemisuwaa gujjidikka be'oos.
+Naati aawaa dosoosona.
+Ha qommoora nuuni be'ido leemisuwaappe intte akeekiyoogaadan naati giyaa qaalay he qofa qashuwassi keettaawa gidiyoogee qoncce. Yaatiyo gishshauw-ta giyaa coratettaa bessiyaa somee nuuni wontta kaalliyaagaa bolli somettees giidoogee ha naa''antto leemisuwaa nuuni be'idoogaan –ti gidiis. Hegee ayssi hanide giikko qommoora taani qonccissidoogaadankka ha nuuni be'ido leemisuwaan ‘Naati aawaa dosoosona” giyaagan ‘naati’ giyaa qaalay keettaawa. Hegaassa hodde sima -ta giyaa coratettaa some -ti giyaagawu laamettidoogee.kaallidi de'iyaa leemisota gujjidikka akeekite.
+Keettaawaaa/subject/       kaalliyaagaa/object/
+naa-ti                                            naa-ta
+geela'o-ti                                  geela'o-ta
+asa-ti                                             asa-ta
+para-ti                                          para-ta
+Harabay qassi hagaappe kareera de'iyaa hara hanotatun –tu giyaaga ekkees.
+Leemisuwaa:
+Aaway     naa-tu   miishshaa qosiis.
+Aaway  naa-tu-ra giyaa biis.
+Aaway  naa-tu-ssi maayuwaa shammiis
+Aaway   naa-tu-ppe miishshaa tal''iis h.h.m
+Meeziyaa
+-ta, -ti nne –tu/-tu- aybin dummatiyaakkonne woykko aybin malatettiyaakkonne naqaashaa bessada paattada xaafa.
+													
+													
+3.6.Sunqquwaa
+Sunqqo giyoogee issi qofa qashuwaa garssan sunttaa woykko sunttasuwaa qonccissiyaa qaalaa gaanawu danddayettees. Kaalliyaa qaalata akeeka.
+Hagee
+Cora
+Qayye
+Bootta
+Mal''o
+Arssa
+Wogga
+Cima 
+Karetta 
+Laafe
+Mino
+Geeshsha
+Baassi ordde booraa shammiis.
+Baasi cima.
+Giraaca baquloy caaggees.
+Awudenne   gitabaa qoppa.
+Cora asati yaakko biidosona.
+Bulla booray xaaggees.
+Machchi nuuni mal''o qumaa miida.
+Karetta kanay badalaa gaashees.
+Ha qommora imettida leemiso qofa qashotun yafarettida qaalati dumma dumma sunqqo qommota bessiyaageeta . Ane kaallidi sunqqotu qommota qanttan qanttan be'ana.
+A.	Yeso sunqquwaa:/Descriptive Adjectives /
+Ha sunqqoti issi sunttawu diyaa meraa, peenuwaa h.h.m. iitatettaa woykko lo''otettaa qonccissanawu maaddoosona .Ha sunqqota dumma duma hanotan shaakkidi be'ana .
+Yara sunqqota /proper adjectives 
+Ha sunqqoy issi uray /issibay awu biitan de'iyaakkonne woykko awu biittaappe yiidaakkonne eranawu woykko erissanawu maaddees.
+Leemisuwaa 
+Kawo xooni wolaytta asa
+Chayna qolee takkenna
+Ha mishirityaa sooddo asa
+Assalla biittaa naati wottanuw gooba 
+Ha qommoora imettida qofa qashuwan yafarettida qaalati ubay yara sunqquwaa bessiyaageta, Hegaa gishshawu eti yara sunqqo geetettoosona. 
+Hegeetikka kawo, china, Sooddo nne Assalla giyaageeta.
+•	Mala sunqquwaa/ Adjective of clour/ 
+Mala sunqqo giyoogee issibaassi de'iyaa malay woykko meray ay malatiyaakkonne qonccissanawu maaddees. 
+Leemisuwaa: 
+•	Manttaa Mani daamaparaa toggees.
+•	Baassi bootta booraa  laaggidi biis/ 
+•	Baalota issito issito zo'o maayuwaa mayawusu. 
+•	Kaataaroy Karetta kanaa kaalettidi shankkatanawu biss.
+•	Battura adil''e ciishsha maaywuwaa shammaasu. 
+ Ha qommoora nuuni be'ido qofa qashotun yafarettida qaalati (daama, bootta,  zo'o, karettanne adil''e ciishsha ) ubbaymeraa woykko malaa qonccissiyaageeta. 
+3.6.1. Peeshuwaa sohuwaan geliyaa sunqqota 
+Sunqqoti peesho sohuwaan geliyo wode, bantta kase de'iyaa eeshshaa laammokkona. Bantta baaso qottaa oyqqidi beettoosona.
+    Leemisuwaa:-
+adussa      He bitanee adussa.
+               He asati adussa.
+guutta      he geela'iyaa guutta.
+gooba      He bitanee gooba.
+              Hageeti naati gooba.
+lo'o      Ha bitane lo'o.
+              Ha geela'iyaa lo'o.
+              Ha asati lo'o.
+              Hegeeti asati lo'o.
+Hegaappe dummatiyaa hanotaa kaallidi be'ana. Sunqqota peesho sohuwan qonccissiyoogaassi koyro ogee gujo gunddulati ( inflectional morphemes) peeshuwaa bolli somettidi bessiyo eeshshaa ekkidi geliyoogaa.suqqoti hegaadan hanidi wolayattuwaan peeshoy beettiyo sohuwan etikka peeshoy bessiyo eeshshaa bessidi qonccoosona.
+Leemisuwaa
+He bitanee aduqq-ees
+He bitanee aduqq-iis
+Ha asati aduqq-oosona
+Ha asati aduqq- isosona
+Gooba   He bitanee cincc-ees
+            He bitanee cincc-iis
+            Hageeti asati cincc-oosona
+           Hageeti asati cincc-idosona
+ Lo'o   He bitanee lo'o –iis
+           He geela'iyaa lo'-aasu
+           Hegeeti asati lo'-idosona
+          Hegeeti naati lo'-idosona
+Mino    He na'ay minn-ees
+He na'ay  minn –iis.
+Ordde     He bitanee ordd-ees.
+             He bitanee ordd-iis.
+             Hegeeti naati ordd-idosona.
+  Hinna naiyaa ordd-aasu.
+
+Na''antto ogee sunqqota peesho sohuwaan qonccissanawu maaddiyaagee, peeshotussi baaso eeshshaa bolli kiy-, gid-woykko han- Wolayttattuwaassi de'iyaa qaalaa yeleta eeshshaa wogaa kaallidi gujettoosona. 
+Leemisuwaa: 
+I A Lo'o kiyidoo-gaa koyees. 
+I eti lo'o hanidoo-gaa koyees.
+A lo'o gidu.
+A lo'o kiyu.
+A lo'o hanu.
+A lo'u.
+
+3.6.2. Sunqqotaa geeddarssiyoogaa
+Wolayttattoy geeddarssanawu maaddiyaa someta paranjjattoy go'ettiyoogeetu mala darissidi go'ettenna. Wolayttattoy geeddarssuwaa qonccissanawu -ppe giyaa somiyaa dumma dumma hanotan go'ettees. 
+Leemisuwaa:
+He macc-aasee-ppe adussa bitanee yiis. 
+I-ppe mal'anchcha geela'iyaa yaasu.
+Ha bitanee he macc-aasee-ppe adussa. 
+Ha bitanee nee-ppe cincca.
+Hagee hegaa-ppe aduqqees.
+Ha asati he gela'otu-ppe aduqqoosona. 
+Ubbaa-ppe malanchcha geela'iyaa yaasu.
+Ha bitanee ubbaa-ppe adussa.
+He na'ay ubbaa-ppe adussa.
+He na'ay ubbaa-ppe nino.
+He na'ay ubbaa-ppe minnees. 
+Ubbaappe laafees woykko guuxxees giyoobaa qonccissanawu daro giyaa penqquwaa go'etteettees. He penqqoy  sunqqwuaapp kasetidi gelees.
+leemiswaa:
+•	Daro adussa asa.
+•	Daro guutta zalanggaa.
+•	Ha bitanee daro adussa.
+•	He asati daro gooba.
+•	He asati appe daro cincca.
+•	Hageeti asati intteppe daro eranchcha. 
+
+Meeziyaa:
+Qommo baggaara nuuni be'ido dumma dumma sunqqo qommotappe ichchashaa ichchashaa ekkada etawu de'iyaa dummatettaanne issippetettaa naqaashan keten''ada qoncciissa. 
+________________________________________________________________________________________________________________________________________________
+3.7. Arttikiliyaa
+Ha arttikiliyaa giyoogee Awuroppaa doonatun ‘the’ nne ‘a’ giyoogeeta qonccissiyaagaa. Wolayttattuwan ha qaalaassi mise gidiya birshshettaa demmanawu barchcheyees.  Hegaa xalla gidenna arttikile giyoogee hagaa giidi qonccissanawukka ban danddayidi eqqiyaa qaali woykko gundduli Wolayttattuwan baawa. Yaatiyo gishshawu Wolayttattuwan issi imettida qofaappe woykko qofa qashoppe ha arttikile giyoogaa hanotaa xaaxi waaxidi akeekeettees.
+  Arttikile naa''u qommo. Qanccenne muumma gaanawu danddayettees. Qoncce arttikile giyoogee issi erettiyaabaa qonccissiyaagaa. Hegaa giyoogee haasayettiyaa haasayaa giddoon qoncciyaabaa. Haasayiyaa uraa gidiin he haasayaa siyiyaa izaawussikka/ naa''awukka/ qoncce gididabaa giyoogaa. Muumma arttikilee qaalay qonccissiyoogaadankka qoncce gidennaba. Haasayiyaa uraassikka gidiin siyiyaa uraassi naa''wukka qoncce gidennabaa. 
+Leemisuwaassi, ‘Baasi boora shammana giidi giyaa biis.’ Giya qofa qashuwan boora giyaagee ay booranne gidiin issi boora shammidi yaanawu danddayees. Gidoppe attin nuuni hiqqa mala giidi he boora nu kahan akeekanawu danddayokko.
+   Hegee hegaa gidishin, Wolayttattuwan Awuroppaa daanatudan tilla qoncce gidennan xaykkokka muumma arttikiliyaa amarida hanotan be'anawu danddayettees.  Ha hanotaa qonccissiyaa gunddulati Wolayttattuwan keehi ayidiayida. Ha muumma arttikilee issi izaawi he ba haasayiyoobay selle gidiyoogaanne qassikka muumma gidiyooga minttidi qonccissanawu koyiyo wode go'ettiyooba. Ha muumma arttikilee sunttaappe kasettidi go'ettiyo  ‘istta’  ( ‘issi” ) giyaa selle payduwaappenne ‘issi issi” giya cora payduwaa qonccissiyaageeta. Ha naa''u gunddulatikka sunttaappe kareera go'ttiyoogeeta. Ane kaalliyaa leemisuwaa akeekoos.  
+Leemisuwaa:  issi asa                       erettenna asa. Hagee issi erettenna asa qonccissiyaagaa gidiyoogee akeekanawu waayssenna. 
+Hara baggaara qassi   “asa” giya qaalaa ekkikko 
+a.	Eretten assa 
+b.	Issi asa
+c.	Erettiya asa.
+Ha qommoora qonccida asa giya qaalay arttikilee baynnaagaa woykko barka qonccidaagaa gidiyoogee palanttenna. Gidoppeattin leemisuwaa ‘a’ maaran naa''u asati ogiyaara kanttishin ettappe issoy ogiyaa doonan qashuwan de'iya mehe shociyaakko hankkoy qassi “aggaiki! Asa mehe ayssi shocay” giidi shoobbanawu danddayees. Yaatiyo wode he shoobbiyaa woykko hanqqettiyaa naa''antto asa haasayaappe be'anawu  danddayettiyoogaadan, ‘asa mehe’ giyaa paca qofa qashuwan de'iya ‘asa’ giya qaalay erettenna asa qonccissiyoogee nuussi geemmenna.
+Leemisuwaa ‘b’ maaran naa''u asati omarssi aginan hemettiiddi de'ishin etappe issoy “ha hiniin eqqidaagee/ beettiyaagee asa gay do'a gay ?” giikko, ha haasayaappe nuuniakeekanawu danddayiyoogaadan ‘asa’ giyaa erettenna issi asa  qonccissiyaagaa gidiyoogaa akeekanawu danddayoos. Hegaadankka leemisuwaa ‘C’ maaran issi pudettaa kiyiyaa asinne qassi dugettaa wodhdhiyaa asi naa''ay gayttidi sarottetti simmiiddi issoy issuwaa “awa bay” giidi oychchikko zaaruwaa immiya hankko asi issi guddauw ‘asa’ haasayissanawu gaada bays” giikko he haasayissana giyo izaawaa he haasayissanauw biya izaaway ba guuggiyan eriyo ‘asa’ gidiyoogaa he izaawu haasayaappe akeekanawu danddayettees.
+Issi geela'iyo giyoode payduwan issinno gidada erettennaaro gidiyoogee qoncce,
+Geela'iyo giyoode erettennaaro, payiduwan issinno, woykko erettiyaaro gidanawu danddayawusu.  Hegaadankka issi heeraappe giyowode, issi erettenna heeraappe gidoogee qoncce. Ane qassi kaallidi coratettaa qonccissiyaa muumma arttikiliyaabaa be'oos. 
+Ha coratettan muumma arttikiliyee ‘issi issi’giya wontta nuuni qommoora be'ido ‘issi’ giya selle muumma arttikiliyaa qonccissiyaa qaalaa zaaretti xaafin woykko daabulin beettiyaagaa. Muumma arttikiliyaa coratettan qonccissiyoogee nuuni qommoora kase be'ido selle muumma arttikiliyaadan haattaa  kuuccoogaadan oykkanawu waayissiyaagaa gidenna. Ane leemisuwaa kaallidi be'oos.
+Leemisuwaa:
+Issi issi laggeta                      amarida laggeta
+
+Issi issi laggeti                       amarida laggeti
+Issi issi geela'ota                   amarida geela'ota
+Issi issi geela'oti                    amarida geela'oti
+Ha qommoora qonccida leemisotuppe metootennan akeekanawu danddayiyoogaadan, ‘ issi issi’ giyaagee amarida erettenna woykko muumma laggeta qonccissiyaagaa gidees.
+Ha issi issi giyaagee ‘guutta’ giya sunqquwaara laametti laamettidi qonccanawu danddayees. Naa'aa birshshettaykka issi malappe attin daro birshshetta dummatetti baawa. 
+Leemisuwaa:
+  Guutta laggeta                            amarida laggeta
+  Guutta leggeti                               amarida lageti
+  Guutta lo'o geela'ota                  amarida lo'o gela'ota 
+Qoncce arttikiliyaa xeelliyaagaan, Wolayttattuwan ha gunddulay woykko ha somee qoncce arttikiliyaa qonccissees gaanawu danddayettenna. 
+Leemisuwaa:asa                           issi asa, erettiya asa, erettenna asa.
+ Adussa asa                  issi erettiya adussa asa. Erettenna asa
+Lo'o geela'iyo            issi erettiya lo'o geela'iyo. Erettenna gela'iyo. Erettenna 
+xaraphpheezza.
+Guutta xaraphpheezza ekka                 erettiya guutta xaraphpheezza.
+Qommoora qonccida leemisotuppe akeekanawu danddayiyoogaadan, qoncce arttikilee hagaa mala hanotan woykko hegaa mala hanotan qonccees gaanawu danddayissiyaa tilla naqaashibaawa. Gidoppeattin nuuni go'ettiyo haasayan qoncce arttikileekka issippe munaqettidi de'iyoogaa Wolayttattuwaa hara qaalawu birshshiyo wode qoncciyan akeekanawu danddayoos. 
+Leemisuwaa: 
+Ubbaappe malanchcha geela'iyo xeega.
+(call the most beautiful girl ) 
+Adussa bitaniyaa xeega.
+(call the tall man )
+Ha qommora beettiya leemisotun qoncce arttikilee de'iyoogaa Ingglize doonawu birshshido qofatuppe akeekoos.  Yohuwan qassi Wolayttattuwan qonccida leemisotun qonccida  qaalatuppe awugaa baggay ha qoncce arttikiliyaa qonccissiyaakko keehi undduwalo. Hagaan qofa immanawu polokka danddayettenna. 
+Har baggaara qassi qoncce arttikilee Wolayttattuwan sunttata kaallidi eta bolli samettiyoogaa qoncciyan be'anawu danddayettees. Hagee keehi qofissanawu danddayiyaa qofa. 
+Ayssi giikko, ha qommoora kase nuuni be'idonne Ingglize doonawu birshshidoogaan, qoncce arttikilee baawee? Giyo wode de'ees. De'i giyo wode qassi saalawu hoolashin, I ‘galbban attidaakko ashuwan attidaakko’ erettenna. Ha'i qasssi qoncce arttikilee sunttatubolli somettidi tillan beettanawu danddayees giyo wode ‘ hagee ayba oorattabee’ giissees. Ane ha ubbankka leemiswuaa kaallidi be'oos. 
+Leemisuwaa:
+a.	Ta na'awu baada hayyana booraa shira. 
+b.	Ta naato maataa buucci wottite; taani boora shammanawu bays.
+Leemisuwaa ‘a’ maaran, booraa shiranawu kiittiyaageekka booraa shiranawu kiitettiyaageekka he booraa eroosona.
+Eti haasayiyo wode he booray modhdhokko gilqqakko, boottakko, karettakko, zo'okko woykko bullakko xaaxi waaxin he booraa misilee kiittiyaagaa kahan gidiin kiitettiyaagaa kahan merettees woykko beettees. Qassi leemisuwaa ‘b’maaran boora shammanawu biya bitanee 
+kacaama boora shammanaakko bulkke boora shammanaakko, ubbakko boori xayin mela soo shammenan simmanaakke erettiyaabi baawa. Yaatiyo gishshawu, leemisuwaa. 
+
+‘b’ maaran ‘ boora ’ giya qaalay issi erettenna / muumma boora qonccissees gaanawu danddayettees- Hankko leemisuwaa ‘a’ maaran, he shirettiyaa booray erettiyaagaa gidiyoogaa qommoora be'ido naa"u leemisotuppe akeeka’ nauw bessiyaabay de'ees. Hegeekka leemisuwaa ‘a’ n qonccidaagee ‘ booraa’ giya usuppun pitaletuppe merettida qaala. 
+Leemisuwaa ‘b’ n qonccidaagee qassi ‘boora’ giya ichchashu pitaletuppe merettida qaala. Booraaa giya qaalan wurssettan adussa naa"u  ‘aa’  be'oos; qassi boora giya qaalan  wurssettan qantta woykko issi ‘a’ be'oos. Yaatiyo gishshawu ha booraa giya qaalan de'iyaa wurssetta adussa woykko naa"u ‘aa’ ppe issoy ( gaxa bagaara de'iyaagee ) qoncce arttikiliyaa bessiyoogee woykko qonccissiyoogee wolayttatto doonaa saynisiyaa akeekay amaridaagee de'iyo uraassi akeekettanawu danddayees. Wolayttattuwaa undduwaalotettay baaxxoole gidiyo gishshawu hagee qoncce gidennan ixxikkokka malaalenna. 
+Meeziyaa:
+Wolayttatto qonccenne muumma arttikiliyaa xeelliyaagan naqaashaa /leemisuwaa neeppe shiishshada issi luukenne baggaa xaafa. 
+																										
+3.7.1. Sunttaasuwaa 
+“ Sunttaasoy naa"u dumma qaatata issippe walakkin merettees. 
+He qaalatikka ‘Sunttaanne “Suwaa” geetettiyaa qaalata. Sunttay ``` issibaa woykko asa  xeesanawu ( sunttanawu ) go'ettiyo qaalaa. Suwa giyoogee qassi keettaa woykko  sohuwaa giyoogaa. Yaatiyo gishshawu ha imettida birshshettaa maaran sunttasuwaa giyogee sunttaa sohuwan gelissidi go'ettiyo sunttaa wokkaaliyaa qaalaa giyoogaa ( Eelaasa Isaasa 2012:60 ). 
+Wolayttattuwan naa"u dumma dumma sunttasoti de'oosona.  Hegeetikka keettaawaanne kaalliyaagaa / subject and object / geetettoosona. Ha sunttasoti bana danddayidi eqqoosona. Hegaa giyoogee hara qaalaa bolli somettokkona giyoogaa. Barina danddayidi eqqoosona giyoogaa. 
+3.7.2. Keettaawaa sunttasuwaa
+Keettaawaa giyaagee issi qofa qashuwan hanettiyaabaawoykko peeshuwaan qoncciyaabaa poliyaagaa. Wolayttattuwan laappun keettaawa sunttasoti de'oosona. Ane hegeeta kaallidi be'oos. 
+1.	Ta/Taani
+2.	Nu/Nuuni
+3.	Ne/Neeni
+4.	Intte
+5.	A
+6.	I
+7.	Eti
+     Ha qommoora be'ido laappunatuppe oyddati selle gidiyo wode hankko heezzati qassi cora gidoosona. Hegeetikka:
+A.	Selleta
+?	Ta/Taani
+?	Ne/Neeni
+?	A
+?	I giyaageeta.
+
+B.	Corata
+?	Nu/Nuuni
+?	Intte
+?	Eti giyaageeta.
+ Ane hageeta qofa qashuwan issippe be'oos. 
+Leemisuwaa:
+1.	Ta/Taani asa bonchchays.
+2.	Nu/Nuuni tamaariddi de'oos.
+3.	Ne/Neeni awuppe yay?
+4.	Intte minttidi tamaarite.
+5.	A oona dosay?
+6.	I booraa hemmees.
+7.	Eti gaashiyaa chakkoosona. 
+Ha qommoora shiiqida qofa qashotun de'yo qofa qashuwan keettaawaa sohuwaa oykkidosona. Yaatiyo gishshawu sunttasoti keettaawaa wokkaaliyaageeta. Nuuni leemisuwaa laappunan de'iyaa qofa qashuwaassi keettaawata medhdhidi ‘ Xooninne Bancci gaashiyaa cakkoosona.” Gaanawu danddayeettees. Hegaa giyo wade ‘eti’ giya sunttasoy ‘ Xoonanne Bancca wokkaalidi gelanawu danddayees giyoogaa. Qassikka leemisuwaa ichchashan de'iyaagaa gishshaa ‘Balota oona dosay?’ gaanawu danddayoos. Qommoor qanttan nuuni be'idoogaadann sunttasoy sunttaa wokkaalidi gelanawu woykko sunttaa oosuwaa polanawu danddayiyaagaa gidiyoogaa akkeekanawu danddayoos. 
+3.7.3. Kaalliyaagaa ( object pronouns )
+Hagaa giyaagee, issi qofa qashwwan peeshay polettiyoogaa giyoogaa. Wolayttattuwan de'iyaa kaalliyaageeta ane xadeera be'oos. Kaalliyaageetikka keettaawu sunttasotun be/idoogaadan banttarkka eqqiyaageeta. 
+1.	Tana
+2.	Nuna
+3.	Nena
+4.	Inttena
+5.	O
+6.	A
+7.	Eta
+Ane hageetan qofa qashuwaa medhdhidi be'oos.
+1.	I tana haa ya giis
+2.	I nuuna haa yiite giis. 
+3.	I nena haa ya giis.
+4.	I inttena haa yiite giis.
+5.	I O haa ya giis. 
+6.	I A haa ya giis.
+7.	I eta haa yiite giis. 
+Ha qommo leemisotun kuushshay ‘yiyoogaa’. Yuussay polettiyoy woykko yiyaageeti keettaawata gidennan de'ishin kaalliyaageeta, Hegaa gishshataassa kaalliyaagaa giyoogee peeshoy polettiyoogaa giyoogee. Hegaan nuuni maayettiyaageeta gidikko ha qommoora qonccida leemisotun yafarettidaageeti kaalliyaageeta gidoyoogaa akeekanawu danddayoos. 
+Meeziyaa. 
+   Suntasotuppe ‘ intte’ giyaageenne ‘eti’ giyaagee Wolayttattuwan naa''u dumma dumma ogiyan woykko hanotan go'oosona. Woykko eta nuuni issuwa issuwaa naa''u dumma dumma ogiyaan go'etteettees. He ogee aybakko woykko eta nuuni wati go'ettiyaakko leemiswaa bessada paattada qonccissa. 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Keettaawa sunttasoynne kaalliya sunttasoy aybin malatettiyoonanne dummatiyoona? 
+Naqaashaa aahuwan bessada paattada qonccissa. 
+_____________________________________________________________________________________________________________________________________________________________
+Bibliography
+Adams, Bruce A. 1983. A Tagmemic Analysis of the Wolayta Language. Unpublished Doctoral Dissertation, University of London.
+Aklilu Abera. 2010. Negation in Wolayta. Un published Master Thesis. Addid Ababa University.
+Allan, Edward J. 1976. Kullo. In Non-Semitic Language of Ethiopia, eds. M.L. Bender. 324-350. East Lansing: African Studies Center, Michigan State University. 
+Azeb Amha. 2006. Wolaita. In Encyclopedia of Language and Linguistics: eds. K. Brown. Vol. 13, 607-612. Oxford: Elsevier Ltd. 
+Azeb Amha. 2007. Non-Verbal Predicate on Wolayta. In Deictics, Copula and Focus in the Ethiopia Convergence Area, eds. Joachim Crass and Ronny Meyer, 99-117. Cologne: Rüdiger Köppe. 
+Bekale Seyum. 1989. The Case System in Wolayta Language (GB Approach). Unpublished Master Thesis. Addis Ababa University.
+Bender, L. M. 2000. Comparative Morphology of the Omotic Languages. LINCOM EUROPA.
+Bender, L. M. 1986. Proto-Omotic Phonology and Lexicon. In Cushetic-Omotic Papers from the International Symposium on Cushetic and Omotic Languages, eds. Marianne Bechhaus-Gerst and Fritz Serzisko, 6-9. Humburg: Helmut Buske Verlag Humburg.
+Biniyam Sisay. 2008. Aspects of Koorete verb Morphology. Doctoral Dissertation, University of Oslo.
+Bybee, J.L. 1985. Morphology. A Study of the Relation between Meaning and Form. Amsterdam: Benjamins. 
+Bybee, J.L. 1994. The Evolution of Grammar. Tense, Aspect, and Modality in the Languages of the World. Chicago, London: The University of Chicago Press. 
+Dahl, Ö. 1985. Tense and Aspect System. Oxford: Basil Black Well.
+Degefu Dalke. 2012. Tense, Aspect and Mood in Wolayta. Unpublished M.A. Thesis, Addis Ababa University.
+Comrie, B. 1976. Aspect. Cambridge: Cambridge University Press. 
+Comrie, B. 1985. Tense. Cambridge: Cambridge University Press. 
+Fleming, Harold. 1976. Omotic Overview. In The Non-Semitic Languages of Ethiopia, eds. M. L. Bender. 299-323. East Lansing: African Studies Center, Michigan State University Press. 
+Getachew Talachew. 1975. The Grammatical Genders and Numbers in Relation to Nouns and Adjectives in Wolayta.Unpublished B.A. Thesis, Addis Ababa University.
+Girma  Awgichew and Meyer, Ronny. 2001. A reexamination of tense in Amharic.
+Hayward, R.J. 2003. ‘The Empty Quarter of Afroasiatic Linguistics.’ In Research in Afroasiatic Grammar II: Selected Papers form the Fifth Conference of Afroasiatic Languages, ed. Jacqueline Lecarme, 241-261. Amsterdam: John Benjamins Publishing Company.   
+Hirut Woldemariam. 1998. Problem of ‘WOGAGODA’ Orthogrpahy. In Interdisciplinary Seminar of the Institute of Ethiopia Studies. Addis Ababa: Institute of Ethiopian Studies. 
+Hirut Woldemariam. 2003. The Grammar of Haro with Comparative Notes on the Ometo Linguistic Group. Unpublished dissertation, Addis Ababa University.
+Lamberti, Marcello and Robert Sottile. 1997. The Wolayta Language. Cologne, Rüdiger Köppe. 
+Lyons, J. 1968. Introduction to Theoretical Linguistics. Cambridge: Cambridge University Press. 
+Ohman, Walter and Hailu Fulasa. 1976. Wolayta. In Language in Ethiopia, eds. M.L. Bender. 155-164. London: Oxford University Press.
+
+Payne, Thomas E. 1997. Describing Morphosyntax. A Guide for Field Linguists. Cambridge: Cambridge University Press. 
+Senait Mulugeta. 1984. The Pronouns in Wolayta. Unpublished B.A. Thesis, Addis Ababa University.
+Sim, R. J. 1994. Wolaita. In the Encyclopedia of Language and Linguistics, ed. R.E. Asher (in chief), Vol. 19, 4988-4989. Oxford, New York, Seoul, Tokoyo: Pergamo Press.
+Tucker, A.N and M.A Bryan 1956. The non-Bantu Languages of North Eastern Africa. London: Oxford University Press. 
+Wakasa,  M. 2002. A note on the –ett- Derivation in Wolayta. Tokiyo: Tokiyo University Press. 
+Wakasa,  M. 2008. Descriptive Study of the Modern Wolayta Language.  Doctoral Disertation. Tokiyo: Tokiyo University. 
+Yitebarek Ejigu. 1970. Wolayta Verbs. Unpublished B.A. Thesis, Addis Ababa University.
+Yitebarek Ejigu. 1983. The Phonology of Wolayta (Generative Approach). Unpublished Master Thesis, Addis Ababa University.

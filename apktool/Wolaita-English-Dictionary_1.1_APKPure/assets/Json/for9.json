@@ -1,0 +1,832 @@
+[
+    {
+        "Word": "﻿aaciis",
+        "POS": "intransitive verb",
+        "Meaning": "sprout, grow back (of plants)"
+    },
+    {
+        "Word": "aaciis",
+        "POS": "intransitive verb",
+        "Meaning": "sprout, grow back (of plants)"
+    },
+    {
+        "Word": "aaro",
+        "POS": "adjective",
+        "Meaning": "superior; excessive; superfluous; extra; surplus"
+    },
+    {
+        "Word": "aa\"a",
+        "POS": "interjection",
+        "Meaning": "oh, no(feeling of fear when someone gets hurt)"
+    },
+    {
+        "Word": "aadhdhida eratetta",
+        "POS": "noun",
+        "Meaning": "wisdom"
+    },
+    {
+        "Word": "aaho",
+        "POS": "adjective",
+        "Meaning": "wide; broad"
+    },
+    {
+        "Word": "aahuwan",
+        "POS": "adjective",
+        "Meaning": "wide"
+    },
+    {
+        "Word": "aakime keettaa",
+        "POS": "noun",
+        "Meaning": "clinic, health center, pharmacy"
+    },
+    {
+        "Word": "aammotida",
+        "POS": "adjective",
+        "Meaning": "rotten; decayed; decomposed"
+    },
+    {
+        "Word": "aammotiis",
+        "POS": "intransitive verb",
+        "Meaning": "be rotten, be decomposed, be decayed(rubbish) on the plowed farmland"
+    },
+    {
+        "Word": "aatti immiis",
+        "POS": "transitive verb",
+        "Meaning": "expose; betray"
+    },
+    {
+        "Word": "achchaa garcciis",
+        "POS": "transitive verb",
+        "Meaning": "gnash"
+    },
+    {
+        "Word": "adabiis",
+        "POS": "intransitive verb",
+        "Meaning": "be durable, be long lasting"
+    },
+    {
+        "Word": "adussatettaa",
+        "POS": "noun",
+        "Meaning": "length; height"
+    },
+    {
+        "Word": "afalaa",
+        "POS": "noun",
+        "Meaning": "heavy cotton blanket or cloak"
+    },
+    {
+        "Word": "amarida",
+        "POS": "adjective",
+        "Meaning": "some, any, a few, a little"
+    },
+    {
+        "Word": "amassaliis",
+        "POS": "intransitive verb",
+        "Meaning": "complain; inform"
+    },
+    {
+        "Word": "anee",
+        "POS": "adverb",
+        "Meaning": "where"
+    },
+    {
+        "Word": "anttiis",
+        "POS": "transitive verb",
+        "Meaning": "agree; consent; accept; acknowledge"
+    },
+    {
+        "Word": "awankka (awaaninne)",
+        "POS": "adverb",
+        "Meaning": "wherever; anywhere"
+    },
+    {
+        "Word": "ayyiis",
+        "POS": "intransitive verb",
+        "Meaning": "be haughty, be conceited, be proud, boast, fuss, brag"
+    },
+    {
+        "Word": "baa",
+        "POS": "postposition",
+        "Meaning": "about"
+    },
+    {
+        "Word": "baaxetiis",
+        "POS": "transitive verb",
+        "Meaning": "struggle, try, attempt, wrestle with, strive in order to defeat"
+    },
+    {
+        "Word": "bari bessuwa",
+        "POS": "noun",
+        "Meaning": "license"
+    },
+    {
+        "Word": "beettiya",
+        "POS": "adjective",
+        "Meaning": "visible; magnificent; obvious"
+    },
+    {
+        "Word": "belettaa",
+        "POS": "noun",
+        "Meaning": "pushing against, an act of pressing something to hold more"
+    },
+    {
+        "Word": "billi geettaa",
+        "POS": "noun",
+        "Meaning": "death, sudden death"
+    },
+    {
+        "Word": "billi giis",
+        "POS": "intransitive verb",
+        "Meaning": "die immediately"
+    },
+    {
+        "Word": "bitaniya",
+        "POS": "noun",
+        "Meaning": "man (old)"
+    },
+    {
+        "Word": "bol\"o",
+        "POS": "adjective",
+        "Meaning": "warm; lukewarm"
+    },
+    {
+        "Word": "caaniis",
+        "POS": "transitive verb",
+        "Meaning": "load, cinch, give a load, put a load on a pack animal"
+    },
+    {
+        "Word": "callaa",
+        "POS": "noun",
+        "Meaning": "signal; post; posted-stick"
+    },
+    {
+        "Word": "cayettiis",
+        "POS": "intransitive verb",
+        "Meaning": "insult each other"
+    },
+    {
+        "Word": "conchchaa",
+        "POS": "noun",
+        "Meaning": "chewing; mastication"
+    },
+    {
+        "Word": "daabbuwa",
+        "POS": "noun",
+        "Meaning": "bread; loaf"
+    },
+    {
+        "Word": "dabbotiis",
+        "POS": "intransitive verb",
+        "Meaning": "be related, be associated, be allied"
+    },
+    {
+        "Word": "dabiddaabbiya",
+        "POS": "noun",
+        "Meaning": "letter; mail"
+    },
+    {
+        "Word": "deddotiis",
+        "POS": "intransitive verb",
+        "Meaning": "stutter; stammer"
+    },
+    {
+        "Word": "deexo",
+        "POS": "adjective",
+        "Meaning": "heavy"
+    },
+    {
+        "Word": "denttuwa",
+        "POS": "noun",
+        "Meaning": "subtraction"
+    },
+    {
+        "Word": "dereqqiis",
+        "POS": "transitive verb",
+        "Meaning": "glare; stare; gaze; contemplate; gape; glower"
+    },
+    {
+        "Word": "dochchiis",
+        "POS": "intransitive verb",
+        "Meaning": "be cool, be calm"
+    },
+    {
+        "Word": "doomettaa",
+        "POS": "noun",
+        "Meaning": "beginning; initial"
+    },
+    {
+        "Word": "dorssaa",
+        "POS": "noun",
+        "Meaning": "sheep"
+    },
+    {
+        "Word": "duude",
+        "POS": "adjective",
+        "Meaning": "mute; dumb"
+    },
+    {
+        "Word": "duuttiis",
+        "POS": "noun",
+        "Meaning": "snap, break (rope)"
+    },
+    {
+        "Word": "duuxerettiis",
+        "POS": "intransitive verb",
+        "Meaning": "be snapped"
+    },
+    {
+        "Word": "erissiis",
+        "POS": "transitive verb",
+        "Meaning": "introduce; herald; notify; inform; report"
+    },
+    {
+        "Word": "erissuwa",
+        "POS": "noun",
+        "Meaning": "notice, advertisement, written announcement, a written or printed announcement or statement of information, often displayed on a board or wall, or published in a newspaper or magazine"
+    },
+    {
+        "Word": "eta",
+        "POS": "adjective",
+        "Meaning": "their (their person plural possessive adjective)"
+    },
+    {
+        "Word": "gaggiis",
+        "POS": "transitive verb",
+        "Meaning": "come about to finish, come to the point of finishing"
+    },
+    {
+        "Word": "gambbaxaa",
+        "POS": "noun",
+        "Meaning": "saddle sore, a painful open skin infection or wound (on the back of a horses, donkey, etc.)"
+    },
+    {
+        "Word": "garxxiis",
+        "POS": "transitive verb",
+        "Meaning": "lend; borrow"
+    },
+    {
+        "Word": "gasttiis",
+        "POS": "intransitive verb",
+        "Meaning": "get better (a sick person)"
+    },
+    {
+        "Word": "gishshaa",
+        "POS": "noun",
+        "Meaning": "share"
+    },
+    {
+        "Word": "gitayiis",
+        "POS": "transitive verb",
+        "Meaning": "enlarge, make someone great or cause someone to grow"
+    },
+    {
+        "Word": "gittiis",
+        "POS": "transitive verb",
+        "Meaning": "become entangled"
+    },
+    {
+        "Word": "gooshshiis",
+        "POS": "transitive verb",
+        "Meaning": "madden, make somebody crazy or mentally sick"
+    },
+    {
+        "Word": "gujjiis",
+        "POS": "transitive verb",
+        "Meaning": "increase, add, excel, grow, exceed, develop, look bigger, become much more, become great deal of, become numerous"
+    },
+    {
+        "Word": "gurddiis",
+        "POS": "transitive verb",
+        "Meaning": "cram; tuck; jam; pack; stuff"
+    },
+    {
+        "Word": "gutaraa",
+        "POS": "noun",
+        "Meaning": "public square, hall; public land set aside for political and administrative public meeting place"
+    },
+    {
+        "Word": "guurummiis",
+        "POS": "intransitive verb",
+        "Meaning": "snarl; growl; rumble; sound"
+    },
+    {
+        "Word": "guuttiis",
+        "POS": "transitive verb",
+        "Meaning": "lessen; reduce; dwindle"
+    },
+    {
+        "Word": "haasayaa",
+        "POS": "noun",
+        "Meaning": "speech; talk; conversation; chat; utterance; saying"
+    },
+    {
+        "Word": "haassiis",
+        "POS": "transitive verb",
+        "Meaning": "distance, send away, make something far, make something farther"
+    },
+    {
+        "Word": "hagee",
+        "POS": "pronoun",
+        "Meaning": "this (nominative masculine singular)"
+    },
+    {
+        "Word": "haliis",
+        "POS": "transitive verb",
+        "Meaning": "miss, dodge (the target, class, appointment, etc.)"
+    },
+    {
+        "Word": "harchchiis (herchchiis)",
+        "POS": "intransitive verb",
+        "Meaning": "slide; skid; slip"
+    },
+    {
+        "Word": "hashekkiis",
+        "POS": "transitive verb",
+        "Meaning": "shoulder, carry, carry or place something on shoulders"
+    },
+    {
+        "Word": "hayyuwa",
+        "POS": "noun",
+        "Meaning": "scheme; suggestion; idea; recommendation"
+    },
+    {
+        "Word": "hiraysiis",
+        "POS": "intransitive verb",
+        "Meaning": "be cheap"
+    },
+    {
+        "Word": "hobbiis",
+        "POS": "transitive verb",
+        "Meaning": "attract"
+    },
+    {
+        "Word": "huuphe",
+        "POS": "adjective",
+        "Meaning": "main; chief; principal; prime"
+    },
+    {
+        "Word": "huuphiya",
+        "POS": "noun",
+        "Meaning": "head"
+    },
+    {
+        "Word": "iili'iiliis",
+        "POS": "intransitive verb",
+        "Meaning": "be faint, be dim (of light)"
+    },
+    {
+        "Word": "iisettiis (iissiis)",
+        "POS": "transitive verb",
+        "Meaning": "nag; urge"
+    },
+    {
+        "Word": "intte",
+        "POS": "pronoun",
+        "Meaning": "you (plural)"
+    },
+    {
+        "Word": "iqiis",
+        "POS": "transitive verb",
+        "Meaning": "squeeze; squash"
+    },
+    {
+        "Word": "irxxissiis",
+        "POS": "transitive verb",
+        "Meaning": "freeze; moisten"
+    },
+    {
+        "Word": "irzzuwa",
+        "POS": "noun",
+        "Meaning": "wheel"
+    },
+    {
+        "Word": "joyniya",
+        "POS": "noun",
+        "Meaning": "sack"
+    },
+    {
+        "Word": "kafuwa",
+        "POS": "noun",
+        "Meaning": "bird"
+    },
+    {
+        "Word": "kandduwa",
+        "POS": "noun",
+        "Meaning": "character"
+    },
+    {
+        "Word": "kifile laggiya",
+        "POS": "noun",
+        "Meaning": "classmate"
+    },
+    {
+        "Word": "kobaa",
+        "POS": "noun",
+        "Meaning": "malice; violence; quarreling; plot; evil; outrage"
+    },
+    {
+        "Word": "koriniisiya",
+        "POS": "noun",
+        "Meaning": "ceiling"
+    },
+    {
+        "Word": "kul''iis",
+        "POS": "intransitive verb",
+        "Meaning": "be fat"
+    },
+    {
+        "Word": "kushettiis",
+        "POS": "transitive verb",
+        "Meaning": "collaborate; organize"
+    },
+    {
+        "Word": "laa'iya",
+        "POS": "adjective",
+        "Meaning": "contagious; infectious; communicable; rampant; spreading"
+    },
+    {
+        "Word": "laallamiis",
+        "POS": "intransitive verb",
+        "Meaning": "be confused"
+    },
+    {
+        "Word": "laalukkiis",
+        "POS": "transitive verb",
+        "Meaning": "make ball, make a small ball (of dough)"
+    },
+    {
+        "Word": "lee'issiis",
+        "POS": "transitive verb",
+        "Meaning": "thin, make something thin, dilute, carve, reduce something in thickness"
+    },
+    {
+        "Word": "maganaa",
+        "POS": "noun",
+        "Meaning": "complaint, statement of unhappiness"
+    },
+    {
+        "Word": "man''iya",
+        "POS": "noun",
+        "Meaning": "place, original place"
+    },
+    {
+        "Word": "mankkatiis",
+        "POS": "intransitive verb",
+        "Meaning": "be done well, be successful"
+    },
+    {
+        "Word": "massiis",
+        "POS": "transitive verb",
+        "Meaning": "carve; hew; smooth"
+    },
+    {
+        "Word": "me''iis (meqqiis)",
+        "POS": "intransitive verb",
+        "Meaning": "be broken, be shattered"
+    },
+    {
+        "Word": "michchiis",
+        "POS": "intransitive verb",
+        "Meaning": "get hot"
+    },
+    {
+        "Word": "minjjiis",
+        "POS": "transitive verb",
+        "Meaning": "save, put by, economize"
+    },
+    {
+        "Word": "mishira na'iyo",
+        "POS": "noun",
+        "Meaning": "bride, a woman on a honeymoon"
+    },
+    {
+        "Word": "mittiis",
+        "POS": "transitive verb",
+        "Meaning": "swallow; gulp"
+    },
+    {
+        "Word": "munaasa",
+        "POS": "adjective",
+        "Meaning": "plentiful; abundant"
+    },
+    {
+        "Word": "muuruqiis",
+        "POS": "transitive verb",
+        "Meaning": "be soaked, be drenched, be saturated, be soggy"
+    },
+    {
+        "Word": "naagiyagaa",
+        "POS": "noun",
+        "Meaning": "guard; keeper; custodian"
+    },
+    {
+        "Word": "oduwa gujjiis",
+        "POS": "transitive verb",
+        "Meaning": "exaggerate"
+    },
+    {
+        "Word": "onakka",
+        "POS": "pronoun",
+        "Meaning": "he, third person singular masculine"
+    },
+    {
+        "Word": "ooliya",
+        "POS": "noun",
+        "Meaning": "moan; groan; wail"
+    },
+    {
+        "Word": "oona",
+        "POS": "pronoun",
+        "Meaning": "whom"
+    },
+    {
+        "Word": "pashkkiis",
+        "POS": "intransitive verb",
+        "Meaning": "smile, have or make pleasant expression, usually expressing amusement, pleasure, or approval"
+    },
+    {
+        "Word": "peenuqiis",
+        "POS": "intransitive verb",
+        "Meaning": "snort; pant; puff"
+    },
+    {
+        "Word": "penggiya",
+        "POS": "noun",
+        "Meaning": "gate; door; entrance; doorway"
+    },
+    {
+        "Word": "pootuwa",
+        "POS": "noun",
+        "Meaning": "photo; photograph"
+    },
+    {
+        "Word": "poqqiis",
+        "POS": "transitive verb",
+        "Meaning": "peel; shuck; husk"
+    },
+    {
+        "Word": "poquwa",
+        "POS": "noun",
+        "Meaning": "rind; peel; bark; husk; pod; skin"
+    },
+    {
+        "Word": "qamisiya",
+        "POS": "noun",
+        "Meaning": "dress"
+    },
+    {
+        "Word": "qammaa",
+        "POS": "noun",
+        "Meaning": "night"
+    },
+    {
+        "Word": "qasiis",
+        "POS": "transitive verb",
+        "Meaning": "excrete (newborn baby)"
+    },
+    {
+        "Word": "qaydiis",
+        "POS": "transitive verb",
+        "Meaning": "sip; taste; drink"
+    },
+    {
+        "Word": "qohiis",
+        "POS": "transitive verb",
+        "Meaning": "hurt, attack, maltreat, damage, injure, afflict, oppress, mistreat, harm, be an adversary, act wickedly, hit back (with words)"
+    },
+    {
+        "Word": "qoncciis",
+        "POS": "transitive verb",
+        "Meaning": "be clear, be revealed"
+    },
+    {
+        "Word": "qoo'iis",
+        "POS": "transitive verb",
+        "Meaning": "maul; split; stone; bruise"
+    },
+    {
+        "Word": "qoodaa",
+        "POS": "noun",
+        "Meaning": "count"
+    },
+    {
+        "Word": "qoqqofiis",
+        "POS": "transitive verb",
+        "Meaning": "shake out, shake off"
+    },
+    {
+        "Word": "sayiis (shayyiis)",
+        "POS": "transitive verb",
+        "Meaning": "open wide"
+    },
+    {
+        "Word": "shabbirssaa",
+        "POS": "noun",
+        "Meaning": "terrorism"
+    },
+    {
+        "Word": "shiiquwa",
+        "POS": "noun",
+        "Meaning": "meeting"
+    },
+    {
+        "Word": "shoobiya",
+        "POS": "noun",
+        "Meaning": "invitation"
+    },
+    {
+        "Word": "shori baynna",
+        "POS": "adjective",
+        "Meaning": "rude; obscene; undisciplined; misbehaving; villain"
+    },
+    {
+        "Word": "shugissiis",
+        "POS": "transitive verb",
+        "Meaning": "soften; lubricate; moisten"
+    },
+    {
+        "Word": "sinttaa",
+        "POS": "noun",
+        "Meaning": "forehead; face"
+    },
+    {
+        "Word": "sirimmiis",
+        "POS": "transitive verb",
+        "Meaning": "stir; mix with a stick"
+    },
+    {
+        "Word": "siyiis",
+        "POS": "transitive verb",
+        "Meaning": "hear, listen, perceive sounds"
+    },
+    {
+        "Word": "sohuwara",
+        "POS": "adverb",
+        "Meaning": "soon, rapidly, immediately, as soon as, automatically"
+    },
+    {
+        "Word": "suqiis",
+        "POS": "transitive verb",
+        "Meaning": "pass gas"
+    },
+    {
+        "Word": "ta",
+        "POS": "pronoun",
+        "Meaning": "I"
+    },
+    {
+        "Word": "tal\"iya",
+        "POS": "noun",
+        "Meaning": "loan; debt"
+    },
+    {
+        "Word": "tiyiis",
+        "POS": "transitive verb",
+        "Meaning": "dye; color; paint; stain; apply; anoint; daub; oil"
+    },
+    {
+        "Word": "tobbiya",
+        "POS": "noun",
+        "Meaning": "discussion; deliberation"
+    },
+    {
+        "Word": "tohossaa",
+        "POS": "noun",
+        "Meaning": "south"
+    },
+    {
+        "Word": "toliis (toolliis)",
+        "POS": "transitive verb",
+        "Meaning": "pitch; erect; stretch; peg"
+    },
+    {
+        "Word": "tolla",
+        "POS": "adjective",
+        "Meaning": "steadfast; determined; unwavering"
+    },
+    {
+        "Word": "toochchiis",
+        "POS": "transitive verb",
+        "Meaning": "disdain; disrespect"
+    },
+    {
+        "Word": "Toophphiya",
+        "POS": "noun",
+        "Meaning": "Ethiopia"
+    },
+    {
+        "Word": "tooshiya",
+        "POS": "noun",
+        "Meaning": "disrespect"
+    },
+    {
+        "Word": "tuma",
+        "POS": "adjective",
+        "Meaning": "true; exact; real"
+    },
+    {
+        "Word": "tuna",
+        "POS": "adjective",
+        "Meaning": "dull; numb"
+    },
+    {
+        "Word": "un''ettiis",
+        "POS": "transitive verb",
+        "Meaning": "urge; coerce; tyrannize; dominate; repress; subjugate; persecute; harass; nag"
+    },
+    {
+        "Word": "ushshaa",
+        "POS": "noun",
+        "Meaning": "drink; alcohol; liquor; beverage"
+    },
+    {
+        "Word": "waasuwa",
+        "POS": "noun",
+        "Meaning": "wail; shout; cry; scream"
+    },
+    {
+        "Word": "warettaa",
+        "POS": "noun",
+        "Meaning": "quarrel; fight; conflict; fracas; argument; dispute; debate; skirmish; strife; affray; riot; disturbance; unrest; commotion; trouble"
+    },
+    {
+        "Word": "worddanchchaa",
+        "POS": "noun",
+        "Meaning": "liar, dishonest person"
+    },
+    {
+        "Word": "wotti ekkiis",
+        "POS": "transitive verb",
+        "Meaning": "grab; snatch"
+    },
+    {
+        "Word": "wuygiya",
+        "POS": "noun",
+        "Meaning": "floor"
+    },
+    {
+        "Word": "xaasayiis",
+        "POS": "transitive verb",
+        "Meaning": "neglect, ignore, abandon, overlook, pass over, disregard"
+    },
+    {
+        "Word": "xaqqayiis",
+        "POS": "transitive verb",
+        "Meaning": "divide, share, use something along with others"
+    },
+    {
+        "Word": "xeegiis",
+        "POS": "transitive verb",
+        "Meaning": "call for, shout for"
+    },
+    {
+        "Word": "xeessaa (xeegettaa)",
+        "POS": "noun",
+        "Meaning": "call, pronounciation, a loud call, rehearsal"
+    },
+    {
+        "Word": "xomppiis",
+        "POS": "transitive verb",
+        "Meaning": "light, switch on, flash, put on, turn on"
+    },
+    {
+        "Word": "xomppiya",
+        "POS": "noun",
+        "Meaning": "light; torch"
+    },
+    {
+        "Word": "xoqolliis",
+        "POS": "transitive verb",
+        "Meaning": "uproot, root out, extract, pull a plant with its roots"
+    },
+    {
+        "Word": "xuggunniis",
+        "POS": "intransitive verb",
+        "Meaning": "worship; revere; venerate; idolize; prostrate; stoop; duck; bow; crouch"
+    },
+    {
+        "Word": "yelaga",
+        "POS": "adjective",
+        "Meaning": "young"
+    },
+    {
+        "Word": "yelagatettaa",
+        "POS": "noun",
+        "Meaning": "youth; teenager"
+    },
+    {
+        "Word": "zaaretuwa",
+        "POS": "noun",
+        "Meaning": "revision, a change or a set of changes to something"
+    },
+    {
+        "Word": "zigirssaa",
+        "POS": "noun",
+        "Meaning": "backbite; slander; tattle; gossip"
+    },
+    {
+        "Word": "leemisuwa",
+        "POS": "noun",
+        "Meaning": "example"
+    }
+]
